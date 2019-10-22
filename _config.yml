@@ -1,0 +1,37 @@
+title: I'm Allison Burtch
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: irl #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Allison Burtch # add your name
+author-img: allison-burtch.jpg # add your photo
+about-author: My previous website got hacked and I had to delete it all. This is an updated archive of allisonburtch.net with work done from 2011-2016. # add description
+social-twitter: irl # add your Twitter handle
+#social-facebook: # add your Facebook handle
+social-github: allisonburtch # add your Github handle
+social-linkedin: allisonburtch # add your Linkedin handle
+social-email: allison@allisonburtch.net # add your Email address
+
+# Disqus
+#discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
