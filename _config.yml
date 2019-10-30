@@ -11,11 +11,11 @@ theme_version: 1.0.1
 title:              Allison Burtch
 logo:               # Logo image URL
 description:        Art archive from 2010-2016
-baseurl:            '/atelierngai' # The subpath of your site, e.g. /blog
-url:                '' # The base hostname & protocol for your site
-twitter:            https://twitter.com/irl
+baseurl:            '/' # The subpath of your site, e.g. /blog
+url:                'https://allisonburtch.github.io' # The base hostname & protocol for your site
+twitter:            'https://twitter.com/irl'
 # facebook:           https://www.facebook.com/aspirethemes
-instagram:          https://www.instagram.com/allisonburtch
+instagram:          'https://www.instagram.com/allisonburtch'
 
 markdown:  kramdown
 permalink: pretty
