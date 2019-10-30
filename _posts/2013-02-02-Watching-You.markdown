@@ -3,7 +3,7 @@ layout: post
 title: Watching You 
 date: 2013-02-02 00:00:00 +0300
 description: 
-img: ben.jpg # Add image post (optional)
+image: '/images/posts/ben.jpg'
 fig-caption: # Add figcaption (optional)
 tags:  # add tag
 ---
@@ -15,17 +15,24 @@ Watching You is an installation in three parts.
 
 1. Viewers watched a video, entirely from surveillance cameras, about the artist as a cop.
 
-2. At the ITP Winter Show, viewers were told that they were currently being surveilled.
+2. At the ITP Winter Show, viewers were told that they were currently being surveilled.
 
-3. In exchange for me deleting one of their images from my computer, I would trade them an honest emotion – any sort of feeling, not necessarily about what they just watched, but just a personal emotion. I was surprised by the honesty I received. Many people didn’t care if I deleted their picture.
+3. In exchange for me deleting one of their images from my computer, I would trade them an honest emotion -- any sort of feeling, not necessarily about what they just watched, but just a personal emotion. I was surprised by the honesty I received. Many people didn’t care if I deleted their picture.
 
-Additional images and texts from Watching You was documented [here](http://yrnotalone.tumblr.com/).
+Watching You is documented [here][1].
 
 
 Exhibited:
 
-	- BfBifocals, a working group of designers and artists.
+[BfBifocals][2], a working group of designers and artists.
 
-	- College Art Association, CAA Conference. TRANSMEDIATION. February 13-16, 2013. New York Hilton.
+College Art Association, CAA Conference. [TRANSMEDIATION][3]. February 13-16, 2013. New York Hilton.
 
-	- Artist talk, Eyebeam, Art/Sec(urity) meetup, March 2013.
+Artist talk, [Eyebeam][4], Art/Sec(urity) meetup, March 2013.
+
+&nbsp;
+
+ [1]: http://yrnotalone.tumblr.com/
+ [2]: www.bfbifocals.com/portfolio/watching-you-a-love-story/
+ [3]: http://conference.collegeart.org/2013/artspace/medialounge
+ [4]: http://eyebeam.org/

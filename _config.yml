@@ -1,34 +1,49 @@
-title: allisonburtch.net
-description: Archive of work done between 2011-2016 
-permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://allisonburtch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: irl #if your site has a twitter account, enter it here
+# Welcome to Sinai Jekyll Theme!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Author Settings
-author: Allison Burtch # add your name
-author-img: allison-burtch.jpg # add your photo
-about-author: This is an archive of work done between 2011-2016. # add description
-social-twitter: irl # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: allisonburtch # add your Github handle
-social-linkedin: allisonburtch # add your Linkedin handle
-social-email: allison@allisonburtch.net # add your Email address
+theme_version: 1.0.1
 
-# Disqus
-#discus-identifier: mr-brown # add your discus identifier
+# Site settings
+title:              Allison Burtch
+logo:               # Logo image URL
+description:        Art archive from 2010-2016
+baseurl:            '/atelierngai' # The subpath of your site, e.g. /blog
+url:                '' # The base hostname & protocol for your site
+twitter:            https://twitter.com/irl
+# facebook:           https://www.facebook.com/aspirethemes
+instagram:          https://www.instagram.com/allisonburtch
 
-# Tracker
-analytics: # Google Analytics
+markdown:  kramdown
+permalink: pretty
+paginate:  20
+sass:
+  style: compressed
 
-# Build Settings
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
+gems:
   - jekyll-paginate
-  - jemoji
+  - jekyll/tagging
+  - jekyll-paginate
 
-paginate: 25
-# paginate_path: "/page/:num"
+include:
+  - _pages
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext

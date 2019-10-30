@@ -3,7 +3,7 @@ layout: post
 title: Log Jammer
 date: 2015-05-05 13:32:20 +0300
 description: Providing a safe space in nature
-img: log-jammer.jpg # Add image post (optional)
+image: '/images/posts/log-jammer.jpg'
 fig-caption: test test
 tags: 
 ---
