@@ -8,23 +8,20 @@ fig-caption: test test
 tags: 
 ---
 
-
-
 ![log jammer]({{site.baseurl}}/assets/img/log-jammer.jpg)
 
 
+This project was largely inspired by this Deleuze quote, which went viral on my tumblr:
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/xjUGgQFXpT7hWCC6cs05RQ/98800122613" data-did="02c121235d29a7f9cb958db770ddf68f11c5be6a"><a href="https://blog.allisonburtch.net/post/98800122613/the-problem-is-no-longer-getting-people-to">https://blog.allisonburtch.net/post/98800122613/the-problem-is-no-longer-getting-people-to</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
-A plane flight used to disconnect us from technology, a walk in the woods and we were alone – yet the subways will soon have cell service and even Canada is putting wifi in all of its national parks. And so we’re at a place where everyone is constantly saying everything…
 
-thesis
+---
 
-…but no one has anything to say.
+A plane flight used to disconnect us from technology, a walk in the woods and we were alone – yet the subways will soon have cell service and even Canada is putting wifi in all of its national parks. And so we’re at a place where everyone is constantly saying everything…but no one has anything to say.
 
 Who cares if we have endless information, if we’re constantly connected, if we can’t deal with it? How can anything change if we don’t talk to each other, work together? Because really, the problem is no longer getting people to express themselves, but providing any miniscule gap of solitude in which they might eventually find something to say.
 
 So I made a log jammer.
-
-
 
 The log jammer provides a safe space in the woods, a right to be alone. What a relief to have the right to say nothing, because only then is there a chance of framing the rare, the thing that might be worth saying.
 

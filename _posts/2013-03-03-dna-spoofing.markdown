@@ -3,10 +3,6 @@ layout: post
 title: DNA Spoofing
 description: Anticipating the possibility of genetic surveillance in the post-apocalyptic present
 image: '/images/posts/heather.jpeg'
-tags:
-  - arthackday
-  - DNA
-  - surveillance
 ---
 
 
@@ -26,7 +22,7 @@ With [Heather Dewey-Hagborg][1], [Adam Harvey][2] and [Aurelia Moser][3].
 Special thanks to [ArtHackDay][4] and [319Scholes][5].
 
 Press:  
-[Creator&#8217;s Project][6]
+[Creator's Project][6]
 
 [ANIMALNew York ][7]
 

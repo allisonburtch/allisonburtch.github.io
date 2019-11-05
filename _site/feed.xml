@@ -4,7 +4,7 @@
     <title>Allison Burtch</title>
     <link>http://localhost:4000</link>
     <description>Art archive from 2010-2016</description>
-    <lastBuildDate>Tue, 05 Nov 2019 14:26:06 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2019 16:21:33 -0500</lastBuildDate>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 
     
@@ -56,7 +56,7 @@ We now know that there are machines, cameras and algorithms everywhere that are 
     
       <item>
         <title>DARC</title>
-        <description>&lt;p&gt;Drone Conference co-organized in 2013. Imagining a near future in which networks of autonomous robots roam the skies.&lt;/p&gt;
+        <description>&lt;p&gt;Drone Conference co-organized in 2013. Imagining a near future in which networks of autonomous robots roam the skies. I helped organize the hackathon that was sponsored by Parrot and held at ITP/NYU in October 2013. The archived version of the website is &lt;a href=&quot;https://web.archive.org/web/20131221051928/http://droneconference.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Sep 2017 17:00:00 -0400</pubDate>
         <link>http://localhost:4000//2017/09/11/drones-aerial-robotics-conference/</link>
@@ -101,11 +101,13 @@ We now know that there are machines, cameras and algorithms everywhere that are 
         <title>Log Jammer</title>
         <description>&lt;p&gt;&lt;img src=&quot;//assets/img/log-jammer.jpg&quot; alt=&quot;log jammer&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A plane flight used to disconnect us from technology, a walk in the woods and we were alone – yet the subways will soon have cell service and even Canada is putting wifi in all of its national parks. And so we’re at a place where everyone is constantly saying everything…&lt;/p&gt;
+&lt;p&gt;This project was largely inspired by this Deleuze quote, which went viral on my tumblr:&lt;/p&gt;
+&lt;div class=&quot;tumblr-post&quot; data-href=&quot;https://embed.tumblr.com/embed/post/xjUGgQFXpT7hWCC6cs05RQ/98800122613&quot; data-did=&quot;02c121235d29a7f9cb958db770ddf68f11c5be6a&quot;&gt;&lt;a href=&quot;https://blog.allisonburtch.net/post/98800122613/the-problem-is-no-longer-getting-people-to&quot;&gt;https://blog.allisonburtch.net/post/98800122613/the-problem-is-no-longer-getting-people-to&lt;/a&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;thesis&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;…but no one has anything to say.&lt;/p&gt;
+&lt;p&gt;A plane flight used to disconnect us from technology, a walk in the woods and we were alone – yet the subways will soon have cell service and even Canada is putting wifi in all of its national parks. And so we’re at a place where everyone is constantly saying everything…but no one has anything to say.&lt;/p&gt;
 
 &lt;p&gt;Who cares if we have endless information, if we’re constantly connected, if we can’t deal with it? How can anything change if we don’t talk to each other, work together? Because really, the problem is no longer getting people to express themselves, but providing any miniscule gap of solitude in which they might eventually find something to say.&lt;/p&gt;
 
@@ -156,8 +158,7 @@ logjammer&lt;/p&gt;
     
       <item>
         <title>WHAT IS MISSING?</title>
-        <description>&lt;hr /&gt;
-&lt;p&gt;&lt;a href=&quot;http://whatismissing.net&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-40&quot; alt=&quot;wim&quot; src=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/wim.png&quot; width=&quot;832&quot; height=&quot;525&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://whatismissing.net&quot;&gt;&lt;img class=&quot;alignnone size-full wp-image-40&quot; alt=&quot;wim&quot; src=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/wim.png&quot; width=&quot;832&quot; height=&quot;525&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Maya Lin’s last memorial, What is Missing?, is devoted to remembering habitat and species loss. Viewers can add their personal memories and view those from the past. I was the lead researcher for the project from 2010-2012.&lt;/p&gt;
 
@@ -228,16 +229,16 @@ logjammer&lt;/p&gt;
     
       <item>
         <title>Writings</title>
-        <description>&lt;p&gt;I used to work as a &lt;a href=&quot;http://www.animalnewyork.com/author/allison/&quot;&gt;journalist&lt;/a&gt; for &lt;a href=&quot;http://animalnewyork.com/&quot;&gt;ANIMAL New York&lt;/a&gt;. Some big pieces include &lt;a href=&quot;http://www.animalnewyork.com/2012/global-political-crisis-why-occupiers-dont-care-if-you-think-occupy-is-dead/&quot;&gt;OWS&lt;/a&gt;, &lt;a href=&quot;http://www.animalnewyork.com/2012/ows-librarians-suing-bloomberg-for-property-destruction-but-it-was-never-about-the-books/&quot;&gt;lawsuits&lt;/a&gt;, &lt;a href=&quot;http://www.animalnewyork.com/2012/fact-checking-fun-with-ray-kelly/&quot;&gt;stop-and-frisk&lt;/a&gt;, Montreal &lt;a href=&quot;http://www.animalnewyork.com/2012/500000-in-montreal-say-fuck-you-to-emergency-protest-bill/&quot;&gt;student protests&lt;/a&gt; and &lt;a href=&quot;http://www.animalnewyork.com/2012/anarchism-in-no-church-in-the-wild-as-seen-from-kanye-west-and-jay-zs-ivory-tower/&quot;&gt;Jay-Z&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;I used to have fantasies of being a writer. Being a writer is much different that writing. I learned that by working as a blogger. I’ve written more stuff recently, but have kept a lot of stuff under wraps.&lt;/p&gt;
 
-&lt;p&gt;Have written elsewhere for the &lt;a href=&quot;http://www.indypendent.org/2012/03/30/sex-workers-shadows&quot;&gt;Indypendent&lt;/a&gt; and &lt;a href=&quot;http://www.good.is/members/allisonburtch&quot;&gt;Good Magazine&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But here are a collection of some pieces from quite a while ago:&lt;/p&gt;
 
-&lt;p&gt;Editor of the &lt;a href=&quot;http://occupiedmedia.us/&quot;&gt;OWSJ&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I used to work as a &lt;a href=&quot;http://www.animalnewyork.com/author/allison/&quot;&gt;journalist&lt;/a&gt; for &lt;a href=&quot;http://animalnewyork.com/&quot;&gt;ANIMAL New York&lt;/a&gt;. Some big pieces include &lt;a href=&quot;http://www.animalnewyork.com/2012/global-political-crisis-why-occupiers-dont-care-if-you-think-occupy-is-dead/&quot;&gt;OWS&lt;/a&gt;, &lt;a href=&quot;http://www.animalnewyork.com/2012/ows-librarians-suing-bloomberg-for-property-destruction-but-it-was-never-about-the-books/&quot;&gt;lawsuits&lt;/a&gt;, &lt;a href=&quot;http://www.animalnewyork.com/2012/fact-checking-fun-with-ray-kelly/&quot;&gt;stop-and-frisk&lt;/a&gt;, Montreal &lt;a href=&quot;http://www.animalnewyork.com/2012/500000-in-montreal-say-fuck-you-to-emergency-protest-bill/&quot;&gt;student protests&lt;/a&gt; and &lt;a href=&quot;http://www.animalnewyork.com/2012/anarchism-in-no-church-in-the-wild-as-seen-from-kanye-west-and-jay-zs-ivory-tower/&quot;&gt;Jay-Z&lt;/a&gt;. Have written elsewhere for the &lt;a href=&quot;http://www.indypendent.org/2012/03/30/sex-workers-shadows&quot;&gt;Indypendent&lt;/a&gt; and &lt;a href=&quot;http://www.good.is/members/allisonburtch&quot;&gt;Good Magazine&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//writings/</link>
-        <guid isPermaLink="true">http://localhost:4000//writings/</guid>
+        <link>http://localhost:4000//2013/02/09/writings/</link>
+        <guid isPermaLink="true">http://localhost:4000//2013/02/09/writings/</guid>
       </item>
     
       <item>
@@ -274,18 +275,18 @@ logjammer&lt;/p&gt;
 
 &lt;p&gt;In 2010, I briefly worked for &lt;a href=&quot;http://www.rapha.cc/cycle-club/&quot;&gt;Rapha&lt;/a&gt; at their pop-up store on the &lt;a href=&quot;http://en.wikipedia.org/wiki/Bowery&quot;&gt;Bowery&lt;/a&gt; in NYC.&lt;/p&gt;
 
-&lt;p&gt;In &lt;a href=&quot;http://www.good.is/posts/cat-6-competitive-commuting-turns-bike-rides-into-races/&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&quot;&gt;an article&lt;/a&gt; for &lt;em&gt;GOOD Magazine&lt;/em&gt;, I labelled competitive bike commuting “Cat 6″ racing, a reference to competitive cycling in which one begins in Category 5 and progresses to Category 1. The New York Times referenced the &lt;a href=&quot;http://schott.blogs.nytimes.com/2010/12/17/cat-6-and-competitive-commuting/&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&quot;&gt;terminology&lt;/a&gt; and &lt;a href=&quot;http://query.nytimes.com/gst/fullpage.html?res=9D0DE4DD1630F931A25751C1A9669D8B63&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&quot;&gt;article&lt;/a&gt; twice.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&quot;http://www.good.is/posts/cat-6-competitive-commuting-turns-bike-rides-into-races/&quot;&gt;an article&lt;/a&gt; for &lt;em&gt;GOOD Magazine&lt;/em&gt;, I labelled competitive bike commuting “Cat 6″ racing, a reference to competitive cycling in which one begins in Category 5 and progresses to Category 1. The New York Times referenced the &lt;a href=&quot;http://schott.blogs.nytimes.com/2010/12/17/cat-6-and-competitive-commuting/&quot;&gt;terminology&lt;/a&gt; and &lt;a href=&quot;http://query.nytimes.com/gst/fullpage.html?res=9D0DE4DD1630F931A25751C1A9669D8B63&quot;&gt;article&lt;/a&gt; twice.&lt;/p&gt;
 
-&lt;p&gt;It was also &lt;a href=&quot;http://prollyisnotprobably.com/2010/11/good-competitive-commuting-turns-bike-rides-into-races/&quot;&gt;featured&lt;/a&gt; for a &lt;a href=&quot;http://bikesnobnyc.blogspot.com/2010/11/things-are-looking-up-its-comfort-thing.html&quot;&gt;week&lt;/a&gt; on &lt;a href=&quot;http://bikesnobnyc.blogspot.com/2010/11/bsnyc-friday-kosher-wine-tasting.html&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;&quot;&gt;Bike Snob &lt;/a&gt;&lt;a href=&quot;http://bikesnobnyc.blogspot.com/2011/05/probing-for-answers-cat-6-racing-boom.html&quot;&gt;and&lt;/a&gt; &lt;a href=&quot;http://wordspy.com/words/competitivecommuting.asp&quot;&gt;in&lt;/a&gt; &lt;a href=&quot;http://texlouisvillebike.blogspot.com/2010/11/cat-6.html&quot;&gt;countless&lt;/a&gt; &lt;a href=&quot;http://www.normalguytri.com/journal/tag/news&quot;&gt;blogs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;It was also &lt;a href=&quot;http://prollyisnotprobably.com/2010/11/good-competitive-commuting-turns-bike-rides-into-races/&quot;&gt;featured&lt;/a&gt; for a &lt;a href=&quot;http://bikesnobnyc.blogspot.com/2010/11/things-are-looking-up-its-comfort-thing.html&quot;&gt;week&lt;/a&gt; on &lt;a href=&quot;http://bikesnobnyc.blogspot.com/2010/11/bsnyc-friday-kosher-wine-tasting.html&quot;&gt;Bike Snob &lt;/a&gt;&lt;a href=&quot;http://bikesnobnyc.blogspot.com/2011/05/probing-for-answers-cat-6-racing-boom.html&quot;&gt;and&lt;/a&gt; &lt;a href=&quot;http://wordspy.com/words/competitivecommuting.asp&quot;&gt;in&lt;/a&gt; &lt;a href=&quot;http://texlouisvillebike.blogspot.com/2010/11/cat-6.html&quot;&gt;countless&lt;/a&gt; &lt;a href=&quot;http://www.normalguytri.com/journal/tag/news&quot;&gt;blogs&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;In 2011 I did an loop around the Adirondacks. Had some stupid bike problems, hitch-hiked to the next town (which had a Walmart but not a bike shop) and ended up finishing the tour with a race saddle and Look Keos on a shitty ass front-suspenion Walmart mountain bike.&lt;/p&gt;
 
 &lt;p&gt;In 2012 I did a month-long solo tour from Boston to Prince Edward Island, took a train to Montreal and then biked back.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//bicycles/</link>
-        <guid isPermaLink="true">http://localhost:4000//bicycles/</guid>
+        <pubDate>Fri, 01 Feb 2013 16:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2013/02/01/bicycles/</link>
+        <guid isPermaLink="true">http://localhost:4000//2013/02/01/bicycles/</guid>
       </item>
     
       <item>
@@ -391,12 +392,6 @@ the Occupied Wall Street Journal, a six-edition print publication which was tran
             <link>http://localhost:4000//press.html</link>
           </item>
         
-      
-    
-      
-    
-      
-    
       
     
       
