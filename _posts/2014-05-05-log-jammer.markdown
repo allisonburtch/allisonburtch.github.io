@@ -15,7 +15,7 @@ This is a cellphone jammer put in a log in the woods, in order to create a safe 
 
 
 ---
-[log jammer](/images/posts/log-jammer2.png)
+![log jammer](/images/posts/log-jammer2.png)
 
 A plane flight used to disconnect us from technology, a walk in the woods and we were alone – yet the subways will soon have cell service and even Canada is putting wifi in all of its national parks. And so we’re at a place where everyone is constantly saying everything…but no one has anything to say.
 
@@ -32,9 +32,9 @@ logjammer
 
 And just as urban infrastructure (a cell phone tower) is often disguised as a natural environment, I did the opposite – a jammer in a real log in real woods.
 
-[log jammer](/images/posts/log-jammer2.png)
-[log jammer](/images/posts/log-jammer3.png)
-[log jammer](/images/posts/log-jammer4.png)
+![log jammer](/images/posts/log-jammer2.png)
+![log jammer](/images/posts/log-jammer3.png)
+![log jammer](/images/posts/log-jammer4.png)
 
 
 
