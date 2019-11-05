@@ -8,10 +8,9 @@ fig-caption: test test
 tags: 
 ---
 
-![log jammer]({{site.baseurl}}/assets/img/log-jammer.jpg)
 
 
-This project was largely inspired by this Deleuze quote, which went viral on my tumblr:
+This is a cellphone jammer put in a log in the woods, in order to create a safe space in nature. It was tested in the lab (no illegal shit) and was a part of my Master's thesis at ITP. Part of this project was largely inspired by this Deleuze quote, which went viral on my tumblr:
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/xjUGgQFXpT7hWCC6cs05RQ/98800122613" data-did="02c121235d29a7f9cb958db770ddf68f11c5be6a"><a href="https://blog.allisonburtch.net/post/98800122613/the-problem-is-no-longer-getting-people-to">https://blog.allisonburtch.net/post/98800122613/the-problem-is-no-longer-getting-people-to</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 
@@ -32,13 +31,13 @@ logjammer
 
 And just as urban infrastructure (a cell phone tower) is often disguised as a natural environment, I did the opposite – a jammer in a real log in real woods.
 
-![log jammer]({{site.baseurl}}/assets/img/log-jammer2.png)
-![log jammer]({{site.baseurl}}/assets/img/log-jammer3.png)
-![log jammer]({{site.baseurl}}/assets/img/log-jammer4.jpg)
+![log jammer](/images/posts/log-jammer2.png)
+![log jammer](/images/posts/log-jammer3.png)
+![log jammer](/images/posts/log-jammer4.png)
 
 
 
-———-
+---
 
 Many thanks to Eric Rosenthal, scientist-in-residence at NYU-ITP, for his guidance and direction.
 
@@ -46,4 +45,4 @@ Many thanks to Eric Rosenthal, scientist-in-residence at NYU-ITP, for his guidan
 
 SELECTED PRESS:
 
-Recently in WIRED and VICE Germany.
+Recently in [WIRED](http://web.archive.org/web/20161009062627/http://www.wired.com/2014/10/fake-log-jams-your-phone/) and [VICE Germany](http://web.archive.org/web/20161009062627/http://motherboard.vice.com/de/read/dieser-holzklotz-jammt-dein-telefon-damit-du-es-endlich-aus-der-hand-legst).
