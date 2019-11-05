@@ -4,7 +4,7 @@
     <title>Allison Burtch</title>
     <link>http://localhost:4000</link>
     <description>Art archive from 2010-2016</description>
-    <lastBuildDate>Tue, 05 Nov 2019 14:12:10 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2019 14:12:29 -0500</lastBuildDate>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 
     
@@ -367,16 +367,6 @@ the Occupied Wall Street Journal, a six-edition print publication which was tran
     
       
     
-      
-        
-          <item>
-            <title>Press</title>
-            <description>Talks, press, exhibitions and other engagements:
-
-</description>
-            <link>http://localhost:4000//press.html</link>
-          </item>
-        
       
     
       
