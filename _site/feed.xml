@@ -4,8 +4,8 @@
     <title>Allison Burtch</title>
     <link>http://localhost:4000</link>
     <description>Art archive from 2010-2016</description>
-    <lastBuildDate>Wed, 30 Oct 2019 08:00:44 -0500</lastBuildDate>
-    <atom:link href="http://localhost:4000/atelierngaifeed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 05 Nov 2019 14:07:42 -0500</lastBuildDate>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 
     
       <item>
@@ -22,9 +22,9 @@ johncapogna.com/
 andysigler.com/
 allisonburtch.net/&lt;/p&gt;
 </description>
-        <pubDate>Sat, 02 Mar 2019 15:00:00 -0600</pubDate>
-        <link>http://localhost:4000/atelierngai/2019/03/02/numbers-on-the-board/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2019/03/02/numbers-on-the-board/</guid>
+        <pubDate>Sat, 02 Mar 2019 16:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2019/03/02/numbers-on-the-board/</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/03/02/numbers-on-the-board/</guid>
       </item>
     
       <item>
@@ -49,18 +49,18 @@ We now know that there are machines, cameras and algorithms everywhere that are 
 &lt;p&gt;It’s a collaboration with Eric Rosenthal, with whom I have been collaborating since he was my professor at ITP, along with Andy Sigler, who has also helped make some PCBs.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 12 Sep 2017 05:32:20 -0500</pubDate>
-        <link>http://localhost:4000/atelierngai/2017/09/12/mic-jammer/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2017/09/12/mic-jammer/</guid>
+        <pubDate>Tue, 12 Sep 2017 06:32:20 -0400</pubDate>
+        <link>http://localhost:4000//2017/09/12/mic-jammer/</link>
+        <guid isPermaLink="true">http://localhost:4000//2017/09/12/mic-jammer/</guid>
       </item>
     
       <item>
         <title>DARC</title>
         <description>&lt;p&gt;Drone Conference co-organized in 2013. Imagining a near future in which networks of autonomous robots roam the skies.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Sep 2017 16:00:00 -0500</pubDate>
-        <link>http://localhost:4000/atelierngai/2017/09/11/drones-aerial-robotics-conference/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2017/09/11/drones-aerial-robotics-conference/</guid>
+        <pubDate>Mon, 11 Sep 2017 17:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2017/09/11/drones-aerial-robotics-conference/</link>
+        <guid isPermaLink="true">http://localhost:4000//2017/09/11/drones-aerial-robotics-conference/</guid>
       </item>
     
       <item>
@@ -85,21 +85,21 @@ We now know that there are machines, cameras and algorithms everywhere that are 
 &lt;h1 id=&quot;strike-the-prisons&quot;&gt;Strike the Prisons&lt;/h1&gt;
 &lt;p&gt;The following year, some of the same group of people made a paper for what was at the time the largest prison strike in California’s history. The archived site was &lt;a href=&quot;https://web.archive.org/web/20160325094446/http://striketheprisons.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/atelierngai/assets/img/prisonstrike.png&quot; alt=&quot;Strike the Prisons&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/img/prisonstrike.png&quot; alt=&quot;Strike the Prisons&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;battle-of-new-york&quot;&gt;Battle of New York&lt;/h1&gt;
 &lt;p&gt;We made a paper in the 2016 primaries in support of Bernie Sanders and published a line that unfortunately came true: “a vote for Hillary Clinton could be a vote for Trump.” The archived site was &lt;a href=&quot;https://web.archive.org/web/20160815061215/http://battleof.nyc/&quot;&gt;here&lt;/a&gt;.
-&lt;img src=&quot;/atelierngai/assets/img/battleofnyc.png&quot; alt=&quot;Strike the Prisons&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;//assets/img/battleofnyc.png&quot; alt=&quot;Strike the Prisons&quot; /&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 31 Dec 2016 15:00:00 -0600</pubDate>
-        <link>http://localhost:4000/atelierngai/2016/12/31/Papers/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2016/12/31/Papers/</guid>
+        <pubDate>Sat, 31 Dec 2016 16:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2016/12/31/Papers/</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/12/31/Papers/</guid>
       </item>
     
       <item>
         <title>Log Jammer</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/atelierngai/assets/img/log-jammer.jpg&quot; alt=&quot;log jammer&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;//assets/img/log-jammer.jpg&quot; alt=&quot;log jammer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A plane flight used to disconnect us from technology, a walk in the woods and we were alone – yet the subways will soon have cell service and even Canada is putting wifi in all of its national parks. And so we’re at a place where everyone is constantly saying everything…&lt;/p&gt;
 
@@ -120,9 +120,9 @@ logjammer&lt;/p&gt;
 
 &lt;p&gt;And just as urban infrastructure (a cell phone tower) is often disguised as a natural environment, I did the opposite – a jammer in a real log in real woods.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/atelierngai/assets/img/log-jammer2.png&quot; alt=&quot;log jammer&quot; /&gt;
-&lt;img src=&quot;/atelierngai/assets/img/log-jammer3.png&quot; alt=&quot;log jammer&quot; /&gt;
-&lt;img src=&quot;/atelierngai/assets/img/log-jammer4.jpg&quot; alt=&quot;log jammer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/img/log-jammer2.png&quot; alt=&quot;log jammer&quot; /&gt;
+&lt;img src=&quot;//assets/img/log-jammer3.png&quot; alt=&quot;log jammer&quot; /&gt;
+&lt;img src=&quot;//assets/img/log-jammer4.jpg&quot; alt=&quot;log jammer&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;———-&lt;/p&gt;
 
@@ -132,9 +132,9 @@ logjammer&lt;/p&gt;
 
 &lt;p&gt;Recently in WIRED and VICE Germany.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 05 May 2015 05:32:20 -0500</pubDate>
-        <link>http://localhost:4000/atelierngai/2015/05/05/log-jammer/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2015/05/05/log-jammer/</guid>
+        <pubDate>Tue, 05 May 2015 06:32:20 -0400</pubDate>
+        <link>http://localhost:4000//2015/05/05/log-jammer/</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/05/05/log-jammer/</guid>
       </item>
     
       <item>
@@ -149,9 +149,9 @@ logjammer&lt;/p&gt;
 
 &lt;p&gt;Village Voice, “How to Make your Dumb Phone Smart” &lt;a href=&quot;https://www.villagevoice.com/2013/05/29/how-to-make-your-dumb-phone-smart/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 05 May 2015 05:32:20 -0500</pubDate>
-        <link>http://localhost:4000/atelierngai/2015/05/05/the-dumb-store/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2015/05/05/the-dumb-store/</guid>
+        <pubDate>Tue, 05 May 2015 06:32:20 -0400</pubDate>
+        <link>http://localhost:4000//2015/05/05/the-dumb-store/</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/05/05/the-dumb-store/</guid>
       </item>
     
       <item>
@@ -171,18 +171,18 @@ logjammer&lt;/p&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 05 May 2015 05:32:20 -0500</pubDate>
-        <link>http://localhost:4000/atelierngai/what-is-missing/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/what-is-missing/</guid>
+        <pubDate>Tue, 05 May 2015 06:32:20 -0400</pubDate>
+        <link>http://localhost:4000//what-is-missing/</link>
+        <guid isPermaLink="true">http://localhost:4000//what-is-missing/</guid>
       </item>
     
       <item>
         <title>Spyke</title>
         <description>&lt;p&gt;In-browser video chat application using WebRTC.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 26 Jan 2014 15:00:00 -0600</pubDate>
-        <link>http://localhost:4000/atelierngai/2014/01/26/Spyke/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2014/01/26/Spyke/</guid>
+        <pubDate>Sun, 26 Jan 2014 16:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2014/01/26/Spyke/</link>
+        <guid isPermaLink="true">http://localhost:4000//2014/01/26/Spyke/</guid>
       </item>
     
       <item>
@@ -193,9 +193,9 @@ logjammer&lt;/p&gt;
 
 &lt;p&gt;For more info go &lt;a href=&quot;http://www.prismbreakup.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Sep 2013 16:00:00 -0500</pubDate>
-        <link>http://localhost:4000/atelierngai/2013/09/23/Prism-BreakUp/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2013/09/23/Prism-BreakUp/</guid>
+        <pubDate>Mon, 23 Sep 2013 17:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2013/09/23/Prism-BreakUp/</link>
+        <guid isPermaLink="true">http://localhost:4000//2013/09/23/Prism-BreakUp/</guid>
       </item>
     
       <item>
@@ -221,9 +221,9 @@ logjammer&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.fastcodesign.com/1672264/watch-how-to-keep-csi-off-your-dna-trail&quot;&gt;FastCo&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 03 Mar 2013 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/atelierngai/2013/03/03/dna-spoofing/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2013/03/03/dna-spoofing/</guid>
+        <pubDate>Sun, 03 Mar 2013 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2013/03/03/dna-spoofing/</link>
+        <guid isPermaLink="true">http://localhost:4000//2013/03/03/dna-spoofing/</guid>
       </item>
     
       <item>
@@ -235,9 +235,9 @@ logjammer&lt;/p&gt;
 &lt;p&gt;Editor of the &lt;a href=&quot;http://occupiedmedia.us/&quot;&gt;OWSJ&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 09 Feb 2013 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/atelierngai/writings/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/writings/</guid>
+        <pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//writings/</link>
+        <guid isPermaLink="true">http://localhost:4000//writings/</guid>
       </item>
     
       <item>
@@ -259,9 +259,9 @@ logjammer&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 09 Feb 2013 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/atelierngai/trash/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/trash/</guid>
+        <pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//trash/</link>
+        <guid isPermaLink="true">http://localhost:4000//trash/</guid>
       </item>
     
       <item>
@@ -283,9 +283,9 @@ logjammer&lt;/p&gt;
 &lt;p&gt;In 2012 I did a month-long solo tour from Boston to Prince Edward Island, took a train to Montreal and then biked back.&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 09 Feb 2013 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/atelierngai/bicycles/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/bicycles/</guid>
+        <pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//bicycles/</link>
+        <guid isPermaLink="true">http://localhost:4000//bicycles/</guid>
       </item>
     
       <item>
@@ -317,9 +317,9 @@ logjammer&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 01 Feb 2013 15:00:00 -0600</pubDate>
-        <link>http://localhost:4000/atelierngai/2013/02/01/Watching-You/</link>
-        <guid isPermaLink="true">http://localhost:4000/atelierngai/2013/02/01/Watching-You/</guid>
+        <pubDate>Fri, 01 Feb 2013 16:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2013/02/01/Watching-You/</link>
+        <guid isPermaLink="true">http://localhost:4000//2013/02/01/Watching-You/</guid>
       </item>
     
 
@@ -356,7 +356,7 @@ the Occupied Wall Street Journal, a six-edition print publication which was tran
   &lt;li&gt;my new consultancy.co&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-            <link>http://localhost:4000/atelierngai/about.html</link>
+            <link>http://localhost:4000//about.html</link>
           </item>
         
       
@@ -365,12 +365,14 @@ the Occupied Wall Street Journal, a six-edition print publication which was tran
         
           <item>
             <title>Contact</title>
-            <description>&lt;p&gt;email: allison@allisonburtch.net
-twitter:
-instagram:
-newsletter:&lt;/p&gt;
+            <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;email&lt;/strong&gt;: allison@allisonburtch.net&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;twitter&lt;/strong&gt;: &lt;a href=&quot;twitter.com/irl&quot;&gt;irl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;instagram&lt;/strong&gt;: &lt;a href=&quot;instagram.com/allisonburtch&quot;&gt;allisonburtch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;newsletter&lt;/strong&gt;: coming soon&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-            <link>http://localhost:4000/atelierngai/contact.html</link>
+            <link>http://localhost:4000//contact.html</link>
           </item>
         
       
@@ -386,7 +388,7 @@ newsletter:&lt;/p&gt;
             <description>Talks, press, exhibitions and other engagements:
 
 </description>
-            <link>http://localhost:4000/atelierngai/press.html</link>
+            <link>http://localhost:4000//press.html</link>
           </item>
         
       
