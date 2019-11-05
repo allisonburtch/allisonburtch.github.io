@@ -7,4 +7,7 @@ image: '/images/posts/spyke.png'
 tags:  # add tag
 ---
 
-In-browser video chat application using WebRTC.
+Spyke was an in-browser video chat application using using WebRTC, PeerJS, Express, Socket.io and NodeJs on Heroku. I got about 70% of the way into this project and then found a handful of companies doing the same thing but better. This was an attempt at being able to do a peer-to-peer in-browser video chat that bypassed the major corporations (Microsoft and Google).
+
+The requirements are deprecated so here is a [link](https://github.com/allisonburtch/Spyke) to the Github.
+
