@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Press
-<!-- image: '' -->
+image: 
 ---
 
 Talks, press, exhibitions and other engagements:
