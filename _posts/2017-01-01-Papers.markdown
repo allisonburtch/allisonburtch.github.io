@@ -15,7 +15,7 @@ Occupy may have gotten shut down but it created the connections for all of the a
 Making a communist editorial project was life changing. I had never had the experience of working on creating a message that both represented the masses but also didn't speak for them. The OWSJ was printed five times locally, each with a distribution of 100,000 and once nationally – in San Francisco, Houston and Chicago. All editions were translated into Spanish, French, Greek and Arabic. Contributors included well-known writers such as Rebecca Solnit, Barbara Kingsolver, Cornel West, Chris Hedges and Matt Taibbi.
 
 Many of the links for these projects are now dead, so I am going to do my best to archive them. There were many people that worked on all of these projects, some anonymously or pseudononymously, and the rest are listed on the masthead. 
-* Edition 1
+* Edition 1 - link is [here](/images/posts/OCCUPY_JOURNAL_1L_spreads))
 * Edition 2
 * Edition 3
 * Edition 4
@@ -25,13 +25,13 @@ Many of the links for these projects are now dead, so I am going to do my best t
 # Strike the Prisons
 The following year, some of the same group of people made a paper for what was at the time the largest prison strike in California's history. The archived site was [here](https://web.archive.org/web/20160325094446/http://striketheprisons.com/).
 
-![Strike the Prisons]({{site.baseurl}}/assets/img/prisonstrike.png)
+![Strike the Prisons](/images/posts/prisonstrike.png)
 
 
 
 # Battle of New York
 We made a paper in the 2016 primaries in support of Bernie Sanders and published a line that unfortunately came true: "a vote for Hillary Clinton could be a vote for Trump." The archived site was [here](https://web.archive.org/web/20160815061215/http://battleof.nyc/).
-![Strike the Prisons]({{site.baseurl}}/assets/img/battleofnyc.png)
-
+![Strike the Prisons](/images/posts/battlosofnyc.png)
+Download here: 
 
 
