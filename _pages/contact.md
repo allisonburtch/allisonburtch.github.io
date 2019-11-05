@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: '/images/pages/contact.jpg'
+<!-- image: '/images/pages/contact.jpg' -->
 ---
 
 * **email**: allison@allisonburtch.net
