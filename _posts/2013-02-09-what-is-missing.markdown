@@ -12,7 +12,7 @@ permalink: /what-is-missing/
 
 [<img class="alignnone size-full wp-image-40" alt="wim" src="http://www.allisonburtch.net/wp-content/uploads/2013/02/wim.png" width="832" height="525" />][1]
 
-Maya Lin&#8217;s last memorial, What is Missing?, is devoted to remembering habitat and species loss. Viewers can add their personal memories and view those from the past. I was the lead researcher for the project from 2010-2012.
+Maya Lin's last memorial, *What is Missing?*, is devoted to remembering habitat and species loss. Viewers can add their personal memories and view those from the past. I was the lead researcher for the project from 2010-2012. 
 
 Press:  
 [Oceana][2]  
