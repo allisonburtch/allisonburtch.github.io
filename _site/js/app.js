@@ -158,15 +158,15 @@ $(document).ready(function() {
   // Get your userId and accessToken from the following URLs, then replace the new values with the
   // the current ones.
   // userId: http://codeofaninja.com/tools/find-instagram-user-id/
-  // accessToken: http://instagram.pixelunion.net/
+  // accessToken: http://instagram.pixelunion.net/ 27532819.1677ed0.b7fdeb9bbb714a1dbd522ce582efc1e2
   // ==============================================================================================
 
   var instagramFeed = new Instafeed({
     get: 'user',
     limit: 4,
     resolution: 'standard_resolution',
-    userId: '9268890053',
-    accessToken: '9268890053.1677ed0.4860ac9184e2427389df96605a6dd73c',
+    userId: '27532819',
+    accessToken: '27532819.1677ed0.b7fdeb9bbb714a1dbd522ce582efc1e2',
     template:
       '<div class="c-widget-instagram__item"><a href="{{link}}" title="{{caption}}" aria-label="{{caption}}" target="_blank" class="c-widget-instagram__image" style="background-image: url({{image}})"></a></div>'
   });
