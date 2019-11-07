@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WHAT IS MISSING?
-date: 2015-05-05 13:32:20 +0300
+date: 2012-04-01 13:32:20 +0300
 author: allisonburtch
 description: "Maya Lin's last memorial, What is Missing?, is devoted to remembering habitat and species loss."
 image: '/images/posts/wim.png'

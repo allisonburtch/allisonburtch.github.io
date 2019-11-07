@@ -4,6 +4,7 @@ title: Watching You
 date: 2012-12-01 00:00:00 +0300
 description: 
 image: '/images/posts/ben.jpg'
+permalink: /watching-you/
 fig-caption: # Add figcaption (optional)
 tags:  # add tag
 ---
