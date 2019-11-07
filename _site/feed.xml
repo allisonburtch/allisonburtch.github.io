@@ -4,7 +4,7 @@
     <title>Allison Burtch</title>
     <link>http://localhost:4000</link>
     <description>Art archive from 2010-2016</description>
-    <lastBuildDate>Thu, 07 Nov 2019 16:47:46 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2019 16:55:20 -0500</lastBuildDate>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 
     
@@ -199,10 +199,19 @@ logjammer&lt;/p&gt;
     
       <item>
         <title>Spyke</title>
-        <description>&lt;p&gt;Spyke was an in-browser video chat application using using WebRTC, PeerJS, Express, Socket.io and NodeJs on Heroku. I got about 70% of the way into this project and then found a handful of companies doing the same thing but better. This was an attempt at being able to do a peer-to-peer in-browser video chat that bypassed the major corporations (Microsoft and Google).&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/images/posts/plugin.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The requirements are deprecated so here is a &lt;a href=&quot;https://github.com/allisonburtch/Spyke&quot;&gt;link&lt;/a&gt; to the Github.&lt;/p&gt;
+&lt;p&gt;This &lt;a href=&quot;http://web.archive.org/web/20160603235836/http://www.allisonburtch.net/illuminator/&quot;&gt;Firefox addon iterates&lt;/a&gt; through all of the html text in your browser and whenever it finds a person or corporation from the data, it illuminates that relationship a little bit.&lt;/p&gt;
 
+&lt;p&gt;The main problem I was trying to solve was how to increase the spread of information about political and corporate relationships without making people go to one place for the data. So, I made an addon that appends brands, individuals and corporations with who they are owned by, other companies of which they are board members, or dates of acquisitions.&lt;/p&gt;
+
+&lt;p&gt;These ubiquitous relationships are often complex and unknown. It reveals the connections between corporations, brands and individuals by clarifying the corporate and political power structures of the 1%.&lt;/p&gt;
+
+&lt;p&gt;It appends that person, brand or corporation with who they are owned by, sponsored by, or acquired by. Data was compiled mainly from the &lt;a href=&quot;http://littlesis.org/home/dashboard&quot;&gt;Little Sis API&lt;/a&gt;, lists of lists on Wikipedia, and other corporate watchdog sources.&lt;/p&gt;
+
+&lt;p&gt;N.B., the data was updated as of May, 2014. As there are infinite data points and everything is constantly changing, I give no guarantee that the data is 100% accurate. There will be bugs.&lt;/p&gt;
+
+&lt;p&gt;You can check out the code on &lt;a href=&quot;https://github.com/allisonburtch/internet_Illuminator&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 26 Jan 2014 16:00:00 -0500</pubDate>
         <link>http://localhost:4000//2014/01/26/internet-illuminator/</link>
