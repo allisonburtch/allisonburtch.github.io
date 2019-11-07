@@ -4,12 +4,12 @@
     <title>Allison Burtch</title>
     <link>http://localhost:4000</link>
     <description>Art archive from 2010-2016</description>
-    <lastBuildDate>Thu, 07 Nov 2019 16:55:49 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2019 16:56:53 -0500</lastBuildDate>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 
     
       <item>
-        <title>Numbers on the Board</title>
+        <title></title>
         <description>&lt;iframe src=&quot;https://player.vimeo.com/video/66297142&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/66297142&quot;&gt;Numbers on the Board&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/allisonburtch&quot;&gt;Allison Burtch&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
@@ -22,9 +22,9 @@ johncapogna.com/
 andysigler.com/
 allisonburtch.net/&lt;/p&gt;
 </description>
-        <pubDate>Sat, 02 Mar 2019 16:00:00 -0500</pubDate>
-        <link>http://localhost:4000//2019/03/02/numbers-on-the-board/</link>
-        <guid isPermaLink="true">http://localhost:4000//2019/03/02/numbers-on-the-board/</guid>
+        <pubDate>Thu, 07 Nov 2019 16:56:53 -0500</pubDate>
+        <link>http://localhost:4000//2019/11/07/2013-02-10-numbers-on-the-board/</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/11/07/2013-02-10-numbers-on-the-board/</guid>
       </item>
     
       <item>

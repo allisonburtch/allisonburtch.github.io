@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Numbers on the Board
-<!-- date: 2019-03-03 00:00:00 +0300
- -->author: allisonburtch
+author: allisonburtch
 description: 'A poly-rhythmic installation keeping time around Manhattanhenge and the summer solstice. '
 image: '/images/posts/numbers.jpg' 
 ---
