@@ -4,7 +4,7 @@
     <title>Allison Burtch</title>
     <link>http://localhost:4000</link>
     <description>Art archive from 2010-2016</description>
-    <lastBuildDate>Thu, 07 Nov 2019 16:55:20 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2019 16:55:49 -0500</lastBuildDate>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 
     
@@ -198,7 +198,7 @@ logjammer&lt;/p&gt;
       </item>
     
       <item>
-        <title>Spyke</title>
+        <title>Internet Illuminator</title>
         <description>&lt;p&gt;&lt;img src=&quot;/images/posts/plugin.png&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This &lt;a href=&quot;http://web.archive.org/web/20160603235836/http://www.allisonburtch.net/illuminator/&quot;&gt;Firefox addon iterates&lt;/a&gt; through all of the html text in your browser and whenever it finds a person or corporation from the data, it illuminates that relationship a little bit.&lt;/p&gt;
