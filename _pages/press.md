@@ -5,7 +5,7 @@ image:
 ---
 
 
-### SELECTED PRESS
+### PRESS
 * [VICE](https://www.vice.com/en_us/article/vbw9db/could-we-blow-up-the-internet), Tim Maughan, "Could we blow up the internet?" 2019.
 * [Rolling Stone](https://www.rollingstone.com/politics/politics-news/in-battle-for-new-york-occupy-wall-streeters-turn-out-for-bernie-178430/), Tessa Stuart, "In Battle for New York, Occupy Wall Streeters Turn Out for Bernie," 2016.
 * [PBS](http://www.pbs.org/newshour/updates/drone-use-humanitarian-aid/), “Humanitarian efforts benefit from drones as ethical debate continues”, 2016.
@@ -29,7 +29,7 @@ image:
 * UNICEF presentation, The Hague, 2017
 * UNICEF Innovation presentation,Olin College of Engineering, November 2016, Boston, MA 
 * “Art and Politics: Doing Both is Doing Neither”, Eyebeam Art & Technology Center, October 2016, Brooklyn, NY
-Co-led TAILS workshop, Whitney Museum/Laura Poitras’ AstroNoise, April 2016, New York, NY 
+* Co-led TAILS workshop, Whitney Museum/Laura Poitras’ AstroNoise, April 2016, New York, NY 
 * Columbia J School’s Brown Institute for Media Innovation, Feb 2016, New York, NY
 * Drone “Do” Tank, UNICEF Innovation presentation, June 2016, Cape May, NJ
 * Digital Ethics Symposium, “Data, Democracy and the Human Story: A Conversation with Members of Deep Lab”, Loyola University, November 2015, Chicago, IL
@@ -75,13 +75,11 @@ Co-led TAILS workshop, Whitney Museum/Laura Poitras’ AstroNoise, April 2016, N
 
 ### FELLOWSHIPS & RESIDENCIES 
  * [Shuttleworth Foundation](https://shuttleworthfoundation.org/) flash grant, NOV 2014 
- * [Institute of Technology and Society](http://www.itsrio.org/), Rio de Janeiro, Brazil, Global Fellows Program, Summer 2014
- * Policy study of the “Marco Civil da Internet,” the Brazilian government and telecommunications infrastructure  * in Rio, Sao Paolo and Brasilia.
- * [Parc Rousseau](http://parc-rousseau.fr/), Ermenonville, France, July-Aug 2015 - Researched and wrote about the new implications for public space given the multiplicity of wireless  * frequencies.
+ * [Institute of Technology and Society](http://www.itsrio.org/), Rio de Janeiro, Brazil, Global Fellows Program, Summer 2014, Policy study of the “Marco Civil da Internet,” the Brazilian government and telecommunications infrastructure in Rio, Sao Paolo and Brasilia.
+ * [Parc Rousseau](http://parc-rousseau.fr/), Ermenonville, France, July-Aug 2015 - Researched and wrote about the new implications for public space given the multiplicity of wireless frequencies.
  * Deep Lab - [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/projects/deep-lab), Pittsburgh, PA, December 2014
- * Deep Lab is a congress of cyberfeminist researchers to examine how the themes of privacy, security, surveillance, anonymity, and large-scale data aggregation are problematized in the arts, culture and society.
- * [Eyebeam Art and Technology Center](http://eyebeam.org/), Brooklyn, NY, Fall - Spring 2014 – 2015 - At Eyebeam, I made a microphone jammer that creates frequencies at 24khz, enough to block iPhone and Androids  * microphones from audio recording, protecting people from app and NSA surveillance.
  * [Deep Lab](http://deeplab.net/) – NEW INC, New York, NY, May 2015
+ * [Eyebeam Art and Technology Center](http://eyebeam.org/), Brooklyn, NY, Fall - Spring 2014 – 2015 
  * [Spruceton Inn Resident Artist](http://www.sprucetoninn.com/at-the-inn/artist-residency/), West Kill, NY, April 2015
 
 
