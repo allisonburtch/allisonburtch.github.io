@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Log Jammer
-date: 2015-05-05 13:32:20 +0300
+date: 2014-05-05 13:32:20 +0300
 description: Providing a safe space in nature
 image: '/images/posts/log-jammer.jpg'
+permalink: /log-jammer/
 fig-caption: test test
 tags: 
 ---

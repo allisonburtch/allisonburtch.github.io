@@ -1,9 +1,24 @@
 ---
 layout: post
-title: Log Jammer
-date: 2015-05-05 13:32:20 +0300
+title: Deep Lab
+date: 2015-04-15 13:32:20 +0300
 description: Providing a safe space in nature
-image: '/images/posts/deep-lab.jpg'
+image: '/images/posts/deeplab.png'
+permalink: /deep-lab/
 fig-caption: test test
 tags: 
 ---
+
+
+download the book
+http://studioforcreativeinquiry.org/?wpdmdl=8330
+
+deep lab lecture series
+http://studioforcreativeinquiry.org/events/deep-lab-lecture-series
+
+deep lab documentary/interviews
+http://studioforcreativeinquiry.org/project/deep-lab-2
+
+http://studioforcreativeinquiry.org/project/deep-lab-2
+
+http://www.lulu.com/shop/deep-lab/deep-lab/paperback/product-21965559.html

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Mic Jammer
-date: 2017-09-12 13:32:20 +0300
+date: 2017-04-06 
 description: Ultrasonic non-invasive microphone jammer to mute your iPhone mic
 image: '/images/posts/micjammer1.png'  
+permalink: /mic-jammer/
 fig-caption: Ultrasonic non-invasive microphone jammer to mute your iPhone mic # Add figcaption (optional)
 tags: 
 ---

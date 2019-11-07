@@ -1,8 +1,9 @@
 	---
 layout: post
 title: PrismBreakup
-date: 2013-09-24 00:00:00 +0300
+date: 2013-08-02 00:00:00 +0300
 description: A series of art and technology events dedicated to exploring and providing forms of protection from surveillance.
+permalink: /prismbreakup/
 image: '/images/posts/prismbreakup.png' 
 ---
 

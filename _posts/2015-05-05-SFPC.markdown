@@ -4,6 +4,7 @@ title: School for Poetic Computation
 date: 2015-05-05 13:32:20 +0300
 description: Providing a safe space in nature
 image: '/images/posts/sfpc.jpg'
+permalink: /sfpc/
 fig-caption: test test
 tags: 
 ---
