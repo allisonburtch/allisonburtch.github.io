@@ -1,0 +1,13 @@
+---
+layout: post
+title: Spyke
+date: 2014-01-27 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+image: '/images/posts/spyke.png'
+tags:  # add tag
+---
+
+Spyke was an in-browser video chat application using using WebRTC, PeerJS, Express, Socket.io and NodeJs on Heroku. I got about 70% of the way into this project and then found a handful of companies doing the same thing but better. This was an attempt at being able to do a peer-to-peer in-browser video chat that bypassed the major corporations (Microsoft and Google).
+
+The requirements are deprecated so here is a [link](https://github.com/allisonburtch/Spyke) to the Github.
+

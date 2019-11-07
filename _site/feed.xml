@@ -4,7 +4,7 @@
     <title>Allison Burtch</title>
     <link>http://localhost:4000</link>
     <description>Art archive from 2010-2016</description>
-    <lastBuildDate>Thu, 07 Nov 2019 16:11:21 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2019 16:43:16 -0500</lastBuildDate>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 
     
@@ -99,6 +99,58 @@ Download here:&lt;/p&gt;
       </item>
     
       <item>
+        <title>School for Poetic Computation</title>
+        <description>
+</description>
+        <pubDate>Tue, 05 May 2015 06:32:20 -0400</pubDate>
+        <link>http://localhost:4000//2015/05/05/SFPC/</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/05/05/SFPC/</guid>
+      </item>
+    
+      <item>
+        <title>Log Jammer</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/images/posts/log-jammer.jpg&quot;&gt;log jammer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a cellphone jammer put in a log in the woods, in order to create a safe space in nature. It was tested in the lab (no illegal shit) and was a part of my Master’s thesis at ITP. Part of this project was largely inspired by this Deleuze quote, which went viral on my tumblr:&lt;/p&gt;
+&lt;div class=&quot;tumblr-post&quot; data-href=&quot;https://embed.tumblr.com/embed/post/xjUGgQFXpT7hWCC6cs05RQ/98800122613&quot; data-did=&quot;02c121235d29a7f9cb958db770ddf68f11c5be6a&quot;&gt;&lt;a href=&quot;https://blog.allisonburtch.net/post/98800122613/the-problem-is-no-longer-getting-people-to&quot;&gt;https://blog.allisonburtch.net/post/98800122613/the-problem-is-no-longer-getting-people-to&lt;/a&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/log-jammer2.png&quot; alt=&quot;log jammer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A plane flight used to disconnect us from technology, a walk in the woods and we were alone – yet the subways will soon have cell service and even Canada is putting wifi in all of its national parks. And so we’re at a place where everyone is constantly saying everything…but no one has anything to say.&lt;/p&gt;
+
+&lt;p&gt;Who cares if we have endless information, if we’re constantly connected, if we can’t deal with it? How can anything change if we don’t talk to each other, work together? Because really, the problem is no longer getting people to express themselves, but providing any miniscule gap of solitude in which they might eventually find something to say.&lt;/p&gt;
+
+&lt;p&gt;So I made a log jammer.&lt;/p&gt;
+
+&lt;p&gt;The log jammer provides a safe space in the woods, a right to be alone. What a relief to have the right to say nothing, because only then is there a chance of framing the rare, the thing that might be worth saying.&lt;/p&gt;
+
+&lt;p&gt;American phones operate on two different spectrums – GSM-850 and GSM-1900. This “cellphone jammer” creates noise at a specific radio wavelength so that cell transmissions can’t go through. I chose 1900 because that’s what my cell phone is on and doing both would be way too much work. Here’s a link to see it in action.&lt;/p&gt;
+
+&lt;p&gt;I then went through dozens of design iterations a pcb design software program called Eagle. You can see some of those iterations here and here. I also put it on Github.
+logjammer&lt;/p&gt;
+
+&lt;p&gt;And just as urban infrastructure (a cell phone tower) is often disguised as a natural environment, I did the opposite – a jammer in a real log in real woods.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/log-jammer2.png&quot; alt=&quot;log jammer&quot; /&gt;
+&lt;img src=&quot;/images/posts/log-jammer3.png&quot; alt=&quot;log jammer&quot; /&gt;
+&lt;img src=&quot;/images/posts/log-jammer4.png&quot; alt=&quot;log jammer&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Many thanks to Eric Rosenthal, scientist-in-residence at NYU-ITP, for his guidance and direction.&lt;/p&gt;
+
+&lt;p&gt;SELECTED PRESS:&lt;/p&gt;
+
+&lt;p&gt;Recently in &lt;a href=&quot;http://web.archive.org/web/20161009062627/http://www.wired.com/2014/10/fake-log-jams-your-phone/&quot;&gt;WIRED&lt;/a&gt; and &lt;a href=&quot;http://web.archive.org/web/20161009062627/http://motherboard.vice.com/de/read/dieser-holzklotz-jammt-dein-telefon-damit-du-es-endlich-aus-der-hand-legst&quot;&gt;VICE Germany&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 May 2015 06:32:20 -0400</pubDate>
+        <link>http://localhost:4000//2015/05/05/Deep-Lab/</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/05/05/Deep-Lab/</guid>
+      </item>
+    
+      <item>
         <title>Log Jammer</title>
         <description>&lt;p&gt;&lt;a href=&quot;/images/posts/log-jammer.jpg&quot;&gt;log jammer&lt;/a&gt;&lt;/p&gt;
 
@@ -187,109 +239,36 @@ logjammer&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 26 Jan 2014 16:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2014/01/26/internet-illuminator/</link>
+        <guid isPermaLink="true">http://localhost:4000//2014/01/26/internet-illuminator/</guid>
+      </item>
+    
+      <item>
+        <title>Spyke</title>
+        <description>&lt;p&gt;Spyke was an in-browser video chat application using using WebRTC, PeerJS, Express, Socket.io and NodeJs on Heroku. I got about 70% of the way into this project and then found a handful of companies doing the same thing but better. This was an attempt at being able to do a peer-to-peer in-browser video chat that bypassed the major corporations (Microsoft and Google).&lt;/p&gt;
+
+&lt;p&gt;The requirements are deprecated so here is a &lt;a href=&quot;https://github.com/allisonburtch/Spyke&quot;&gt;link&lt;/a&gt; to the Github.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 26 Jan 2014 16:00:00 -0500</pubDate>
         <link>http://localhost:4000//2014/01/26/Spyke/</link>
         <guid isPermaLink="true">http://localhost:4000//2014/01/26/Spyke/</guid>
       </item>
     
       <item>
-        <title>PrismBreakup</title>
-        <description>&lt;p&gt;This &lt;a href=&quot;http://www.prismbreakup.org/&quot;&gt;conference&lt;/a&gt; was organized by Heather Dewey-Hagborg, Aurelia Moser, Ramsey Nasser and myself in the summer of 2013, directly after Edward Snowden leaked information documenting widespread US surveillance and complictiy with Silicon Valley tech companies. The website was kindly made by Dan Pheiffer.&lt;/p&gt;
+        <title>Prism Breakup</title>
+        <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;--- layout: post title: PrismBreakup date: 2013-09-24 00:00:00 +0300 description: A series of art and technology events dedicated to exploring and providing forms of protection from surveillance. image: '/images/posts/prismbreakup.png'  ---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This &lt;a href=&quot;http://www.prismbreakup.org/&quot;&gt;conference&lt;/a&gt; was organized by Heather Dewey-Hagborg, Aurelia Moser, Ramsey Nasser and myself in the summer of 2013, directly after Edward Snowden leaked information documenting widespread US surveillance and complictiy with Silicon Valley tech companies. The website was kindly made by Dan Pheiffer.&lt;/p&gt;
 
 &lt;p&gt;The three day event brough together a wide range of technologists, artists and thinkers, many of who are more well-known today in the privacy/surveillance scene. It was held at the former &lt;a href=&quot;https://www.eyebeam.org/&quot;&gt;Eyebeam&lt;/a&gt; location in Chelsea.&lt;/p&gt;
 
 &lt;p&gt;For more info go &lt;a href=&quot;http://www.prismbreakup.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 23 Sep 2013 17:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2013/09/23/Prism-BreakUp/</link>
-        <guid isPermaLink="true">http://localhost:4000//2013/09/23/Prism-BreakUp/</guid>
-      </item>
-    
-      <item>
-        <title>DNA Spoofing</title>
-        <description>&lt;h3 id=&quot;dna-spoofing&quot;&gt;DNA Spoofing&lt;/h3&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/60928966&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;https://vimeo.com/60928966&quot;&gt;DNA Spoofing: DIY Counter-Surveillance&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This video was made at ArtHackDay at 319 Scholes in 2013. It’s since been viewed 20k times on line and shown at more places than I can count, including every Holocaust Museum in Europe.&lt;/p&gt;
-
-&lt;p&gt;In this project, we anticipate the possibility of genetic surveillance in the post-apocalyptic present. As humans we are constantly shedding genetic material in public space. It is becoming increasingly common to use those traces for surveillance and reconstruction. As IP spoofing makes anonymous internet browsing possible, DNA spoofing extends that potential by scrambling genetic material, enabling anonymous physical trajectories in tandem with digital. In this spirit, our work offers some DIY techniques for counteracting genetic surveillance.&lt;/p&gt;
-
-&lt;p&gt;With &lt;a href=&quot;http://deweyhagborg.com/&quot;&gt;Heather Dewey-Hagborg&lt;/a&gt;, &lt;a href=&quot;http://ahprojects.com/&quot;&gt;Adam Harvey&lt;/a&gt; and &lt;a href=&quot;http://aureliamoser.com/&quot;&gt;Aurelia Moser&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Special thanks to &lt;a href=&quot;arthackday.net/god_mode/&quot;&gt;ArtHackDay&lt;/a&gt; and &lt;a href=&quot;319scholes.org/&quot;&gt;319Scholes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Press:&lt;br /&gt;
-&lt;a href=&quot;http://www.thecreatorsproject.com/blog/how-to-be-anonymous-in-the-age-of-dna-surveillance&quot;&gt;Creator’s Project&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://animalnewyork.com/2013/art-hack-day-god-mode/&quot;&gt;ANIMALNew York &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.fastcodesign.com/1672264/watch-how-to-keep-csi-off-your-dna-trail&quot;&gt;FastCo&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 03 Mar 2013 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//2013/03/03/dna-spoofing/</link>
-        <guid isPermaLink="true">http://localhost:4000//2013/03/03/dna-spoofing/</guid>
-      </item>
-    
-      <item>
-        <title>Writings</title>
-        <description>&lt;p&gt;I used to have fantasies of being a writer. Being a writer is much different that writing. I learned that by working as a blogger. I’ve written more stuff recently, but have kept a lot of stuff under wraps.&lt;/p&gt;
-
-&lt;p&gt;But here are a collection of some pieces from quite a while ago:&lt;/p&gt;
-
-&lt;p&gt;I used to work as a &lt;a href=&quot;http://www.animalnewyork.com/author/allison/&quot;&gt;journalist&lt;/a&gt; for &lt;a href=&quot;http://animalnewyork.com/&quot;&gt;ANIMAL New York&lt;/a&gt;. Some big pieces include &lt;a href=&quot;http://www.animalnewyork.com/2012/global-political-crisis-why-occupiers-dont-care-if-you-think-occupy-is-dead/&quot;&gt;OWS&lt;/a&gt;, &lt;a href=&quot;http://www.animalnewyork.com/2012/ows-librarians-suing-bloomberg-for-property-destruction-but-it-was-never-about-the-books/&quot;&gt;lawsuits&lt;/a&gt;, &lt;a href=&quot;http://www.animalnewyork.com/2012/fact-checking-fun-with-ray-kelly/&quot;&gt;stop-and-frisk&lt;/a&gt;, Montreal &lt;a href=&quot;http://www.animalnewyork.com/2012/500000-in-montreal-say-fuck-you-to-emergency-protest-bill/&quot;&gt;student protests&lt;/a&gt; and &lt;a href=&quot;http://www.animalnewyork.com/2012/anarchism-in-no-church-in-the-wild-as-seen-from-kanye-west-and-jay-zs-ivory-tower/&quot;&gt;Jay-Z&lt;/a&gt;. Have written elsewhere for the &lt;a href=&quot;http://www.indypendent.org/2012/03/30/sex-workers-shadows&quot;&gt;Indypendent&lt;/a&gt; and &lt;a href=&quot;http://www.good.is/members/allisonburtch&quot;&gt;Good Magazine&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//2013/02/09/writings/</link>
-        <guid isPermaLink="true">http://localhost:4000//2013/02/09/writings/</guid>
-      </item>
-    
-      <item>
-        <title>trash</title>
-        <description>&lt;p&gt;I started dumpster diving in Long Beach, CA in 2009 after realizing that the small, organic grocery store I frequented was very, very disorganized. After teaching SAT prep one winter night, I decided to check out the dumpster and found about eighty jars of peanut and almond butter. After that, I started taking a picture every night to document what I found.&lt;/p&gt;
-
-&lt;p&gt;I started &lt;a href=&quot;http://thisisyourtrash.wordpress.com/&quot;&gt;this blog &lt;/a&gt;because I wanted people to see how much food is thrown away. In fact, about 50% of all harvested food in America is eventually tossed.&lt;/p&gt;
-
-&lt;p&gt;Julia Scott of Wallet Pop came along once and interviewed me. The &lt;a href=&quot;http://bargainbabe.com/2010/03/16/bargain-babe-goes-dumpster-diving/&quot;&gt;video&lt;/a&gt; was on the front page of AOL.com which resulted in a lot of internet discussion about trash. Just &lt;a href=&quot;https://www.google.com/#hl=en&amp;amp;tbo=d&amp;amp;sclient=psy-ab&amp;amp;q=%22allison+burtch%22+dumpster+diving&amp;amp;oq=%22allison+burtch%22+dumpster+diving&amp;amp;gs_l=hp.3...10219.12662.4.12883.2.2.0.0.0.0.62.111.2.2.0.les%3B..0.0...1c.1.3.psy-ab.gcbq457jJ68&amp;amp;pbx=1&amp;amp;bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&amp;amp;bvm=bv.42553238,d.dmg&amp;amp;fp=ea7e351ab9da3dca&amp;amp;biw=1371&amp;amp;bih=710&quot;&gt;google it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/4424769171_7d97e62ff5_z.jpg&quot;&gt;&lt;img class=&quot;alignnone  wp-image-131&quot; alt=&quot;4424769171_7d97e62ff5_z&quot; src=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/4424769171_7d97e62ff5_z.jpg&quot; width=&quot;512&quot; height=&quot;384&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;div id=&quot;attachment_35&quot; style=&quot;width: 378px&quot; class=&quot;wp-caption alignnone&quot;&gt;
-  &lt;a href=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/dumpster.jpg&quot;&gt;&lt;img class=&quot; wp-image-35 &quot; alt=&quot;&quot; src=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/dumpster.jpg&quot; width=&quot;368&quot; height=&quot;491&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;
-    Jess Meany/AnonymousAgent
-  &lt;/p&gt;
-&lt;/div&gt;
-
-</description>
-        <pubDate>Sat, 09 Feb 2013 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000//trash/</link>
-        <guid isPermaLink="true">http://localhost:4000//trash/</guid>
-      </item>
-    
-      <item>
-        <title>Bicycles</title>
-        <description>&lt;p&gt;I love riding bikes.&lt;/p&gt;
-
-&lt;p&gt;In the summer of 2008 I co-led a bike tour in Europe. Six teenage boys from Amsterdam to Paris. I laughed a lot.&lt;/p&gt;
-
-&lt;p&gt;In 2009 I biked from New York City to Los Angeles as part of a tour for the Bicycle Film Festival and 42 Below Vodka, the sponsor of the festival. It was supposed to be a vodka marketing tour but really ended up being the best summer of my life and one of the reasons I moved to NYC.&lt;/p&gt;
-
-&lt;p&gt;In 2010, I briefly worked for &lt;a href=&quot;http://www.rapha.cc/cycle-club/&quot;&gt;Rapha&lt;/a&gt; at their pop-up store on the &lt;a href=&quot;http://en.wikipedia.org/wiki/Bowery&quot;&gt;Bowery&lt;/a&gt; in NYC.&lt;/p&gt;
-
-&lt;p&gt;In &lt;a href=&quot;http://www.good.is/posts/cat-6-competitive-commuting-turns-bike-rides-into-races/&quot;&gt;an article&lt;/a&gt; for &lt;em&gt;GOOD Magazine&lt;/em&gt;, I labelled competitive bike commuting “Cat 6″ racing, a reference to competitive cycling in which one begins in Category 5 and progresses to Category 1. The New York Times referenced the &lt;a href=&quot;http://schott.blogs.nytimes.com/2010/12/17/cat-6-and-competitive-commuting/&quot;&gt;terminology&lt;/a&gt; and &lt;a href=&quot;http://query.nytimes.com/gst/fullpage.html?res=9D0DE4DD1630F931A25751C1A9669D8B63&quot;&gt;article&lt;/a&gt; twice.&lt;/p&gt;
-
-&lt;p&gt;It was also &lt;a href=&quot;http://prollyisnotprobably.com/2010/11/good-competitive-commuting-turns-bike-rides-into-races/&quot;&gt;featured&lt;/a&gt; for a &lt;a href=&quot;http://bikesnobnyc.blogspot.com/2010/11/things-are-looking-up-its-comfort-thing.html&quot;&gt;week&lt;/a&gt; on &lt;a href=&quot;http://bikesnobnyc.blogspot.com/2010/11/bsnyc-friday-kosher-wine-tasting.html&quot;&gt;Bike Snob &lt;/a&gt;&lt;a href=&quot;http://bikesnobnyc.blogspot.com/2011/05/probing-for-answers-cat-6-racing-boom.html&quot;&gt;and&lt;/a&gt; &lt;a href=&quot;http://wordspy.com/words/competitivecommuting.asp&quot;&gt;in&lt;/a&gt; &lt;a href=&quot;http://texlouisvillebike.blogspot.com/2010/11/cat-6.html&quot;&gt;countless&lt;/a&gt; &lt;a href=&quot;http://www.normalguytri.com/journal/tag/news&quot;&gt;blogs&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In 2011 I did an loop around the Adirondacks. Had some stupid bike problems, hitch-hiked to the next town (which had a Walmart but not a bike shop) and ended up finishing the tour with a race saddle and Look Keos on a shitty ass front-suspenion Walmart mountain bike.&lt;/p&gt;
-
-&lt;p&gt;In 2012 I did a month-long solo tour from Boston to Prince Edward Island, took a train to Montreal and then biked back.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 01 Feb 2013 16:00:00 -0500</pubDate>
-        <link>http://localhost:4000//2013/02/01/bicycles/</link>
-        <guid isPermaLink="true">http://localhost:4000//2013/02/01/bicycles/</guid>
+        <pubDate>Fri, 02 Aug 2013 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2013/08/02/Prism-BreakUp/</link>
+        <guid isPermaLink="true">http://localhost:4000//2013/08/02/Prism-BreakUp/</guid>
       </item>
     
       <item>
@@ -324,6 +303,94 @@ logjammer&lt;/p&gt;
         <pubDate>Fri, 01 Feb 2013 16:00:00 -0500</pubDate>
         <link>http://localhost:4000//2013/02/01/Watching-You/</link>
         <guid isPermaLink="true">http://localhost:4000//2013/02/01/Watching-You/</guid>
+      </item>
+    
+      <item>
+        <title>Bicycles</title>
+        <description>&lt;p&gt;I love riding bikes.&lt;/p&gt;
+
+&lt;p&gt;In the summer of 2008 I co-led a bike tour in Europe. Six teenage boys from Amsterdam to Paris. I laughed a lot.&lt;/p&gt;
+
+&lt;p&gt;In 2009 I biked from New York City to Los Angeles as part of a tour for the Bicycle Film Festival and 42 Below Vodka, the sponsor of the festival. It was supposed to be a vodka marketing tour but really ended up being the best summer of my life and one of the reasons I moved to NYC.&lt;/p&gt;
+
+&lt;p&gt;In 2010, I briefly worked for &lt;a href=&quot;http://www.rapha.cc/cycle-club/&quot;&gt;Rapha&lt;/a&gt; at their pop-up store on the &lt;a href=&quot;http://en.wikipedia.org/wiki/Bowery&quot;&gt;Bowery&lt;/a&gt; in NYC.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&quot;http://www.good.is/posts/cat-6-competitive-commuting-turns-bike-rides-into-races/&quot;&gt;an article&lt;/a&gt; for &lt;em&gt;GOOD Magazine&lt;/em&gt;, I labelled competitive bike commuting “Cat 6″ racing, a reference to competitive cycling in which one begins in Category 5 and progresses to Category 1. The New York Times referenced the &lt;a href=&quot;http://schott.blogs.nytimes.com/2010/12/17/cat-6-and-competitive-commuting/&quot;&gt;terminology&lt;/a&gt; and &lt;a href=&quot;http://query.nytimes.com/gst/fullpage.html?res=9D0DE4DD1630F931A25751C1A9669D8B63&quot;&gt;article&lt;/a&gt; twice.&lt;/p&gt;
+
+&lt;p&gt;It was also &lt;a href=&quot;http://prollyisnotprobably.com/2010/11/good-competitive-commuting-turns-bike-rides-into-races/&quot;&gt;featured&lt;/a&gt; for a &lt;a href=&quot;http://bikesnobnyc.blogspot.com/2010/11/things-are-looking-up-its-comfort-thing.html&quot;&gt;week&lt;/a&gt; on &lt;a href=&quot;http://bikesnobnyc.blogspot.com/2010/11/bsnyc-friday-kosher-wine-tasting.html&quot;&gt;Bike Snob &lt;/a&gt;&lt;a href=&quot;http://bikesnobnyc.blogspot.com/2011/05/probing-for-answers-cat-6-racing-boom.html&quot;&gt;and&lt;/a&gt; &lt;a href=&quot;http://wordspy.com/words/competitivecommuting.asp&quot;&gt;in&lt;/a&gt; &lt;a href=&quot;http://texlouisvillebike.blogspot.com/2010/11/cat-6.html&quot;&gt;countless&lt;/a&gt; &lt;a href=&quot;http://www.normalguytri.com/journal/tag/news&quot;&gt;blogs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2011 I did an loop around the Adirondacks. Had some stupid bike problems, hitch-hiked to the next town (which had a Walmart but not a bike shop) and ended up finishing the tour with a race saddle and Look Keos on a shitty ass front-suspenion Walmart mountain bike.&lt;/p&gt;
+
+&lt;p&gt;In 2012 I did a month-long solo tour from Boston to Prince Edward Island, took a train to Montreal and then biked back.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Feb 2013 16:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2013/02/01/bicycles/</link>
+        <guid isPermaLink="true">http://localhost:4000//2013/02/01/bicycles/</guid>
+      </item>
+    
+      <item>
+        <title>DNA Spoofing</title>
+        <description>&lt;h3 id=&quot;dna-spoofing&quot;&gt;DNA Spoofing&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/60928966&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/60928966&quot;&gt;DNA Spoofing: DIY Counter-Surveillance&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This video was made at ArtHackDay at 319 Scholes in 2013. It’s since been viewed 20k times on line and shown at more places than I can count, including every Holocaust Museum in Europe.&lt;/p&gt;
+
+&lt;p&gt;In this project, we anticipate the possibility of genetic surveillance in the post-apocalyptic present. As humans we are constantly shedding genetic material in public space. It is becoming increasingly common to use those traces for surveillance and reconstruction. As IP spoofing makes anonymous internet browsing possible, DNA spoofing extends that potential by scrambling genetic material, enabling anonymous physical trajectories in tandem with digital. In this spirit, our work offers some DIY techniques for counteracting genetic surveillance.&lt;/p&gt;
+
+&lt;p&gt;With &lt;a href=&quot;http://deweyhagborg.com/&quot;&gt;Heather Dewey-Hagborg&lt;/a&gt;, &lt;a href=&quot;http://ahprojects.com/&quot;&gt;Adam Harvey&lt;/a&gt; and &lt;a href=&quot;http://aureliamoser.com/&quot;&gt;Aurelia Moser&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Special thanks to &lt;a href=&quot;arthackday.net/god_mode/&quot;&gt;ArtHackDay&lt;/a&gt; and &lt;a href=&quot;319scholes.org/&quot;&gt;319Scholes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Press:&lt;br /&gt;
+&lt;a href=&quot;http://www.thecreatorsproject.com/blog/how-to-be-anonymous-in-the-age-of-dna-surveillance&quot;&gt;Creator’s Project&lt;/a&gt;
+&lt;a href=&quot;http://animalnewyork.com/2013/art-hack-day-god-mode/&quot;&gt;ANIMALNew York&lt;/a&gt;
+&lt;a href=&quot;http://www.fastcodesign.com/1672264/watch-how-to-keep-csi-off-your-dna-trail&quot;&gt;FastCo&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2013/01/01/dna-spoofing/</link>
+        <guid isPermaLink="true">http://localhost:4000//2013/01/01/dna-spoofing/</guid>
+      </item>
+    
+      <item>
+        <title>Writings</title>
+        <description>&lt;p&gt;I used to have fantasies of being a writer. Being a writer is much different that writing. I learned that by working as a blogger.&lt;/p&gt;
+
+&lt;p&gt;I recently wrote a couple pieces for Canopy: the first is about &lt;a href=&quot;https://canopy.cr/post/how-we-think-about-strategy-at-canopy&quot;&gt;how we think about strategy&lt;/a&gt;. The second, longer piece talks about &lt;a href=&quot;https://canopy.cr/post/why-is-big-tech-pivoting-on-privacy&quot;&gt;machine learning, privacy and our interconnection&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some stuff from a while ago:&lt;/p&gt;
+
+&lt;p&gt;I used to work as a &lt;a href=&quot;http://www.animalnewyork.com/author/allison/&quot;&gt;journalist&lt;/a&gt; for &lt;a href=&quot;http://animalnewyork.com/&quot;&gt;ANIMAL New York&lt;/a&gt;. Some big pieces include &lt;a href=&quot;http://www.animalnewyork.com/2012/global-political-crisis-why-occupiers-dont-care-if-you-think-occupy-is-dead/&quot;&gt;OWS&lt;/a&gt;, &lt;a href=&quot;http://www.animalnewyork.com/2012/ows-librarians-suing-bloomberg-for-property-destruction-but-it-was-never-about-the-books/&quot;&gt;lawsuits&lt;/a&gt;, &lt;a href=&quot;http://www.animalnewyork.com/2012/fact-checking-fun-with-ray-kelly/&quot;&gt;stop-and-frisk&lt;/a&gt;, Montreal &lt;a href=&quot;http://www.animalnewyork.com/2012/500000-in-montreal-say-fuck-you-to-emergency-protest-bill/&quot;&gt;student protests&lt;/a&gt; and &lt;a href=&quot;http://www.animalnewyork.com/2012/anarchism-in-no-church-in-the-wild-as-seen-from-kanye-west-and-jay-zs-ivory-tower/&quot;&gt;Jay-Z&lt;/a&gt;. Have written elsewhere for the &lt;a href=&quot;http://www.indypendent.org/2012/03/30/sex-workers-shadows&quot;&gt;Indypendent&lt;/a&gt; and &lt;a href=&quot;http://www.good.is/members/allisonburtch&quot;&gt;Good Magazine&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 15 Mar 2012 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000//2012/03/15/writings/</link>
+        <guid isPermaLink="true">http://localhost:4000//2012/03/15/writings/</guid>
+      </item>
+    
+      <item>
+        <title>trash</title>
+        <description>&lt;p&gt;I started dumpster diving in Long Beach, CA in 2009 after realizing that the small, organic grocery store I frequented was very, very disorganized. After teaching SAT prep one winter night, I decided to check out the dumpster and found about eighty jars of peanut and almond butter. After that, I started taking a picture every night to document what I found.&lt;/p&gt;
+
+&lt;p&gt;I started &lt;a href=&quot;http://thisisyourtrash.wordpress.com/&quot;&gt;this blog &lt;/a&gt;because I wanted people to see how much food is thrown away. In fact, about 50% of all harvested food in America is eventually tossed.&lt;/p&gt;
+
+&lt;p&gt;Julia Scott of Wallet Pop came along once and interviewed me. The &lt;a href=&quot;http://bargainbabe.com/2010/03/16/bargain-babe-goes-dumpster-diving/&quot;&gt;video&lt;/a&gt; was on the front page of AOL.com which resulted in a lot of internet discussion about trash. Just &lt;a href=&quot;https://www.google.com/#hl=en&amp;amp;tbo=d&amp;amp;sclient=psy-ab&amp;amp;q=%22allison+burtch%22+dumpster+diving&amp;amp;oq=%22allison+burtch%22+dumpster+diving&amp;amp;gs_l=hp.3...10219.12662.4.12883.2.2.0.0.0.0.62.111.2.2.0.les%3B..0.0...1c.1.3.psy-ab.gcbq457jJ68&amp;amp;pbx=1&amp;amp;bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&amp;amp;bvm=bv.42553238,d.dmg&amp;amp;fp=ea7e351ab9da3dca&amp;amp;biw=1371&amp;amp;bih=710&quot;&gt;google it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/4424769171_7d97e62ff5_z.jpg&quot;&gt;&lt;img class=&quot;alignnone  wp-image-131&quot; alt=&quot;4424769171_7d97e62ff5_z&quot; src=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/4424769171_7d97e62ff5_z.jpg&quot; width=&quot;512&quot; height=&quot;384&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div id=&quot;attachment_35&quot; style=&quot;width: 378px&quot; class=&quot;wp-caption alignnone&quot;&gt;
+  &lt;a href=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/dumpster.jpg&quot;&gt;&lt;img class=&quot; wp-image-35 &quot; alt=&quot;&quot; src=&quot;http://www.allisonburtch.net/wp-content/uploads/2013/02/dumpster.jpg&quot; width=&quot;368&quot; height=&quot;491&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;
+    Jess Meany/AnonymousAgent
+  &lt;/p&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//trash/</link>
+        <guid isPermaLink="true">http://localhost:4000//trash/</guid>
       </item>
     
 
@@ -380,7 +447,7 @@ logjammer&lt;/p&gt;
         
           <item>
             <title>Press</title>
-            <description>### SELECTED PRESS
+            <description>### PRESS
 * [VICE](https://www.vice.com/en_us/article/vbw9db/could-we-blow-up-the-internet), Tim Maughan, &quot;Could we blow up the internet?&quot; 2019.
 * [Rolling Stone](https://www.rollingstone.com/politics/politics-news/in-battle-for-new-york-occupy-wall-streeters-turn-out-for-bernie-178430/), Tessa Stuart, &quot;In Battle for New York, Occupy Wall Streeters Turn Out for Bernie,&quot; 2016.
 * [PBS](http://www.pbs.org/newshour/updates/drone-use-humanitarian-aid/), “Humanitarian efforts benefit from drones as ethical debate continues”, 2016.
@@ -450,12 +517,11 @@ logjammer&lt;/p&gt;
 
 ### FELLOWSHIPS &amp; RESIDENCIES 
  * [Shuttleworth Foundation](https://shuttleworthfoundation.org/) flash grant, NOV 2014 
- * [Institute of Technology and Society](http://www.itsrio.org/), Rio de Janeiro, Brazil, Global Fellows Program, Summer 2014
- * Policy study of the “Marco Civil da Internet,” the Brazilian government and telecommunications infrastructure  * in Rio, Sao Paolo and Brasilia.
- * [Parc Rousseau](http://parc-rousseau.fr/), Ermenonville, France, July-Aug 2015 - Researched and wrote about the new implications for public space given the multiplicity of wireless  * frequencies.
+ * [Institute of Technology and Society](http://www.itsrio.org/), Rio de Janeiro, Brazil, Global Fellows Program, Summer 2014, Policy study of the “Marco Civil da Internet,” the Brazilian government and telecommunications infrastructure in Rio, Sao Paolo and Brasilia.
+ * [Parc Rousseau](http://parc-rousseau.fr/), Ermenonville, France, July-Aug 2015 - Researched and wrote about the new implications for public space given the multiplicity of wireless frequencies.
  * Deep Lab - [STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org/projects/deep-lab), Pittsburgh, PA, December 2014
  * [Deep Lab](http://deeplab.net/) – NEW INC, New York, NY, May 2015
- * [Eyebeam Art and Technology Center](http://eyebeam.org/), Brooklyn, NY, Fall - Spring 2014 – 2015 - At Eyebeam, I made a microphone jammer that creates frequencies at 24khz, enough to block iPhone and Androids  * microphones from audio recording, protecting people from app and NSA surveillance.
+ * [Eyebeam Art and Technology Center](http://eyebeam.org/), Brooklyn, NY, Fall - Spring 2014 – 2015 
  * [Spruceton Inn Resident Artist](http://www.sprucetoninn.com/at-the-inn/artist-residency/), West Kill, NY, April 2015
 
 

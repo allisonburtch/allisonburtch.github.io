@@ -8,8 +8,6 @@ image: '/images/posts/heather.jpeg'
 
 ### DNA Spoofing
 
-
-
 <iframe src="https://player.vimeo.com/video/60928966" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/60928966">DNA Spoofing: DIY Counter-Surveillance</a></p>
 
@@ -23,12 +21,8 @@ Special thanks to [ArtHackDay][4] and [319Scholes][5].
 
 Press:  
 [Creator's Project][6]
-
-[ANIMALNew York ][7]
-
+[ANIMALNew York][7]
 [FastCo][8]
-
-
 
  [1]: http://deweyhagborg.com/
  [2]: http://ahprojects.com/

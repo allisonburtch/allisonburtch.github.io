@@ -15,5 +15,4 @@ The Dumb Store was an [open platform for anyone](https://github.com/dumbstore/du
 
 ### Press:
 
-Village Voice, "How to Make your Dumb Phone Smart" [link](https://www.villagevoice.com/2013/05/29/how-to-make-your-dumb-phone-smart/
-)
+Village Voice, "How to Make your Dumb Phone Smart" [link](https://www.villagevoice.com/2013/05/29/how-to-make-your-dumb-phone-smart/)
