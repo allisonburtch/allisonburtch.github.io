@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dumb Store
-date: 2015-05-01 13:32:20 +0300
+date: 2013-05-01 13:32:20 +0300
 description: An open platform for dumb apps for dumb phones.
 image: '/images/posts/dumbstore.png'
 tags: 

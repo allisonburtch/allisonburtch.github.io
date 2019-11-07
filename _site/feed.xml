@@ -4,7 +4,7 @@
     <title>Allison Burtch</title>
     <link>http://localhost:4000</link>
     <description>Art archive from 2010-2016</description>
-    <lastBuildDate>Thu, 07 Nov 2019 17:16:07 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2019 17:28:03 -0500</lastBuildDate>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 
     
@@ -53,25 +53,10 @@ Download here:&lt;/p&gt;
       </item>
     
       <item>
-        <title>The Dumb Store</title>
-        <description>&lt;h3 id=&quot;the-most-inclusive-mobile-app-platform-ever&quot;&gt;The most inclusive mobile app platform. Ever.&lt;/h3&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://web.archive.org/web/20170712083832/http://www.dumbsto.re/&quot;&gt;dumbsto.re&lt;/a&gt; was an inclusive app platform for obtaining information via dumb phones. The Dumb Store is a demonstration of what can be done using dumb phones. It’s an exploration in resisting planned obsolescence and using current technology to its fullest capacity.&lt;/p&gt;
-
-&lt;p&gt;The Dumb Store was an &lt;a href=&quot;https://github.com/dumbstore/dumbstore&quot;&gt;open platform for anyone&lt;/a&gt; to submit their dumbphone-compatible &lt;a href=&quot;https://web.archive.org/web/20170418022743/http://www.dumbsto.re/apps&quot;&gt;apps&lt;/a&gt;. It was a collaboration between myself and &lt;a href=&quot;https://nas.sr/&quot;&gt;Ramsey Nasser&lt;/a&gt; in 2012-2013. We made the framework on Twilio and it went to the top of hacker news at the time. Twilio generously gave us some credits when a ton of people were using the service that we were paying for. Unfortunately I decided to buy a .re TLD which was expensive and I let it lag and now can’t buy it anymore.&lt;/p&gt;
-
-&lt;h3 id=&quot;press&quot;&gt;Press:&lt;/h3&gt;
-
-&lt;p&gt;Village Voice, “How to Make your Dumb Phone Smart” &lt;a href=&quot;https://www.villagevoice.com/2013/05/29/how-to-make-your-dumb-phone-smart/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 May 2015 06:32:20 -0400</pubDate>
-        <link>http://localhost:4000//dumbstore/</link>
-        <guid isPermaLink="true">http://localhost:4000//dumbstore/</guid>
-      </item>
-    
-      <item>
         <title>Deep Lab</title>
-        <description>&lt;p&gt;download the book
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.deeplab.net/&quot;&gt;Deep Lab&lt;/a&gt; is a collective of cyberfeminist researchers, organized by STUDIO Fellow Addie Wagenknecht to examine how privacy, security, surveillance, and anonymity are problematized in the arts and society. The Deep Lab participants, all women, are an international group of new-media artists, visualization designers, data scientists, software engineers, hackers, journalists and theoreticians, who are engaged in the critical assessment of contemporary digital culture. In the second week of December, these experts will work at the STUDIO on an accelerated pressure project, and deliver four evenings of public presentations: the Deep Lab Lecture Series.&lt;/p&gt;
+
+&lt;p&gt;download the book
 http://studioforcreativeinquiry.org/?wpdmdl=8330&lt;/p&gt;
 
 &lt;p&gt;deep lab lecture series
@@ -193,19 +178,33 @@ logjammer&lt;/p&gt;
       </item>
     
       <item>
-        <title>Prism Breakup</title>
-        <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;--- layout: post title: PrismBreakup date: 2013-08-02 00:00:00 +0300 description: A series of art and technology events dedicated to exploring and providing forms of protection from surveillance. permalink: /prismbreakup/ image: '/images/posts/prismbreakup.png'  ---
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;This &lt;a href=&quot;http://www.prismbreakup.org/&quot;&gt;conference&lt;/a&gt; was organized by Heather Dewey-Hagborg, Aurelia Moser, Ramsey Nasser and myself in the summer of 2013, directly after Edward Snowden leaked information documenting widespread US surveillance and complictiy with Silicon Valley tech companies. The website was kindly made by Dan Pheiffer.&lt;/p&gt;
+        <title>PrismBreakup</title>
+        <description>&lt;p&gt;This &lt;a href=&quot;http://www.prismbreakup.org/&quot;&gt;conference&lt;/a&gt; was organized by Heather Dewey-Hagborg, Aurelia Moser, Ramsey Nasser and myself in the summer of 2013, directly after Edward Snowden leaked information documenting widespread US surveillance and complictiy with Silicon Valley tech companies. The website was kindly made by Dan Pheiffer.&lt;/p&gt;
 
 &lt;p&gt;The three day event brough together a wide range of technologists, artists and thinkers, many of who are more well-known today in the privacy/surveillance scene. It was held at the former &lt;a href=&quot;https://www.eyebeam.org/&quot;&gt;Eyebeam&lt;/a&gt; location in Chelsea.&lt;/p&gt;
 
 &lt;p&gt;For more info go &lt;a href=&quot;http://www.prismbreakup.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 02 Aug 2013 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000//2013/08/02/Prism-BreakUp/</link>
-        <guid isPermaLink="true">http://localhost:4000//2013/08/02/Prism-BreakUp/</guid>
+        <pubDate>Thu, 01 Aug 2013 17:00:00 -0400</pubDate>
+        <link>http://localhost:4000//prismbreakup/</link>
+        <guid isPermaLink="true">http://localhost:4000//prismbreakup/</guid>
+      </item>
+    
+      <item>
+        <title>The Dumb Store</title>
+        <description>&lt;h3 id=&quot;the-most-inclusive-mobile-app-platform-ever&quot;&gt;The most inclusive mobile app platform. Ever.&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://web.archive.org/web/20170712083832/http://www.dumbsto.re/&quot;&gt;dumbsto.re&lt;/a&gt; was an inclusive app platform for obtaining information via dumb phones. The Dumb Store is a demonstration of what can be done using dumb phones. It’s an exploration in resisting planned obsolescence and using current technology to its fullest capacity.&lt;/p&gt;
+
+&lt;p&gt;The Dumb Store was an &lt;a href=&quot;https://github.com/dumbstore/dumbstore&quot;&gt;open platform for anyone&lt;/a&gt; to submit their dumbphone-compatible &lt;a href=&quot;https://web.archive.org/web/20170418022743/http://www.dumbsto.re/apps&quot;&gt;apps&lt;/a&gt;. It was a collaboration between myself and &lt;a href=&quot;https://nas.sr/&quot;&gt;Ramsey Nasser&lt;/a&gt; in 2012-2013. We made the framework on Twilio and it went to the top of hacker news at the time. Twilio generously gave us some credits when a ton of people were using the service that we were paying for. Unfortunately I decided to buy a .re TLD which was expensive and I let it lag and now can’t buy it anymore.&lt;/p&gt;
+
+&lt;h3 id=&quot;press&quot;&gt;Press:&lt;/h3&gt;
+
+&lt;p&gt;Village Voice, “How to Make your Dumb Phone Smart” &lt;a href=&quot;https://www.villagevoice.com/2013/05/29/how-to-make-your-dumb-phone-smart/&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 May 2013 06:32:20 -0400</pubDate>
+        <link>http://localhost:4000//dumbstore/</link>
+        <guid isPermaLink="true">http://localhost:4000//dumbstore/</guid>
       </item>
     
       <item>
@@ -358,7 +357,7 @@ allisonburtch.net/&lt;/p&gt;
       </item>
     
       <item>
-        <title>trash</title>
+        <title>Trash</title>
         <description>&lt;p&gt;I started dumpster diving in Long Beach, CA in 2009 after realizing that the small, organic grocery store I frequented was very, very disorganized. After teaching SAT prep one winter night, I decided to check out the dumpster and found about eighty jars of peanut and almond butter. After that, I started taking a picture every night to document what I found.&lt;/p&gt;
 
 &lt;p&gt;I started &lt;a href=&quot;http://thisisyourtrash.wordpress.com/&quot;&gt;this blog &lt;/a&gt;because I wanted people to see how much food is thrown away. In fact, about 50% of all harvested food in America is eventually tossed.&lt;/p&gt;
@@ -436,6 +435,7 @@ allisonburtch.net/&lt;/p&gt;
             <description>### PRESS
 * [VICE](https://www.vice.com/en_us/article/vbw9db/could-we-blow-up-the-internet), Tim Maughan, &quot;Could we blow up the internet?&quot; 2019.
 * [Rolling Stone](https://www.rollingstone.com/politics/politics-news/in-battle-for-new-york-occupy-wall-streeters-turn-out-for-bernie-178430/), Tessa Stuart, &quot;In Battle for New York, Occupy Wall Streeters Turn Out for Bernie,&quot; 2016.
+* [El Pais](https://elpais.com/elpais/2016/11/25/planeta_futuro/1480078727_733852.html), Alejandra Agudo, &quot;24 horas en el corazón de Unicef&quot;
 * [PBS](http://www.pbs.org/newshour/updates/drone-use-humanitarian-aid/), “Humanitarian efforts benefit from drones as ethical debate continues”, 2016.
 * [NYTimes](http://www.nytimes.com/reuters/2016/12/15/technology/15reuters-malawi-aid-drones.html), Reuters, “U.N., Malawi to Explore Use of Drones to Deliver Faster Aid in Crises”, 2016.
 * [Hyperallergic](http://hyperallergic.com/173513/cyberfeminists-go-deep-on-big-data-privacy-and-surveillance/),  Ben Valentine, “Cyberfeminists Go Deep on Big Data, Privacy, and Surveillance,” 2015. 
