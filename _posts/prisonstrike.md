@@ -1,0 +1,43 @@
+---
+layout: post
+title: Papers
+date: 2016-03-01
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+image: '/images/posts/prisonstrike.png' # Add image post (optional)
+permalink: /papers/
+tags: # add tag
+---
+
+# Occupied Wall St Journal
+The Occupied Wall Street Journal came out of Zuccotti/Liberty Square in the Fall of 2011. I went there in the midst of a bit of a personal crisis, a friend I was supposed to move out with decided to live with her boyfriend, then we got bedbugs, and so I was staying on a close friend's couch in Sunset Park. I went to Zuccotti Park the end of the first week of the occupation and found a job with my friend Kevin and the information desk. That time was sometimes spent talking to strangers about what we were doing (everyone, of course, had a different idea of what we were doing), directing other occupiers to whichever meeting they were looking for, and guarding this bucked of donation money (no clue where any of that went). I still remember the generousity of strangers who came with clothes, food, blankets and sleeping bags. I'll always remember one of the few times I slept there staring at the looming HSBC Bank Building and knowing that this had changed my life and had changed the country and proud of myself that I had gone. 
+
+Occupy may have gotten shut down but it created the connections for all of the activism that happened in NYC for the decade to follow. It introduced me to radicals that altered the course of my political education. I got involved with the Occupied Wall St. Journal sometime after they had published their second edution, if I recall correctly. I had written a small blog on Feministing criticizing the OWSJ masthead for being primarily men. (It was not, but two women were working under pseudonyms). They invited me to the Brecht Forum (rip) and allowed to stay, when, in the words of one of the editors they found out I was "a serious person." There are many other controversies about this paper that is not my story to tell. 
+
+Making a communist editorial project was life changing. I had never had the experience of working on creating a message that both represented the masses but also didn't speak for them. The OWSJ was printed five times locally, each with a distribution of 100,000 and once nationally – in San Francisco, Houston and Chicago. All editions were translated into Spanish, French, Greek and Arabic. Contributors included well-known writers such as Rebecca Solnit, Barbara Kingsolver, Cornel West, Chris Hedges and Matt Taibbi.
+
+Many of the links for these projects are now dead, so I am going to do my best to archive them. There were many people that worked on all of these projects, some anonymously or pseudononymously, and the rest are listed on the masthead. 
+* Edition 1 - link is [here](/images/posts/OCCUPY_JOURNAL_1L_spreads.pdf)
+* Edition 2 - link is [here](/images/posts/OCCUPY_JOURNAL_2_spreads.pdf)
+* Edition 3 - link is [here](/images/posts/FINAL_OCCUPY_JOURNAL_3_spreads.pdf)
+* Edition 4 - link is [here](http://occuprint.org/)
+* Edition 5 - link is [here](/images/posts/owsj_NatEd_5_spreads.pdf)
+* Edition 6 - link is [here](/images/posts/OWSJ_6_web.pdf)
+
+
+# Strike the Prisons
+![Strike the Prisons](/images/posts/prisonstrike.png)
+
+The following year, some of the same group of people made a paper for what was at the time the largest prison strike in California's history. The archived site was [here](https://web.archive.org/web/20160325094446/http://striketheprisons.com/).
+
+Download [here](/images/posts/strike_the_prisons.pdf)
+
+
+
+
+
+# Battle of New York
+![Battle of NY](/images/posts/battlosofnyc.png)
+We made a paper in the 2016 primaries in support of Bernie Sanders and published a line that unfortunately came true: "a vote for Hillary Clinton could be a vote for Trump." The archived site was [here](https://web.archive.org/web/20160815061215/http://battleof.nyc/).
+Download [here](/images/posts/battle-of-new-york.pdf)
+
+

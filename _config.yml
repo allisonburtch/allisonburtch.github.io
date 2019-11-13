@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-theme: sinai 
 # theme_version: 1.0.1
 
 # Site settings
@@ -19,6 +18,7 @@ twitter:            'https://twitter.com/irl'
 instagram:          'https://www.instagram.com/allisonburtch'
 
 markdown:  kramdown
+remote_theme: sinai 
 permalink: pretty
 paginate:  20
 sass:
