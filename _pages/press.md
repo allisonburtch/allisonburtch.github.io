@@ -12,6 +12,9 @@ image:
 * [PBS](http://www.pbs.org/newshour/updates/drone-use-humanitarian-aid/), “Humanitarian efforts benefit from drones as ethical debate continues”, 2016.
 * [NYTimes](http://www.nytimes.com/reuters/2016/12/15/technology/15reuters-malawi-aid-drones.html), Reuters, “U.N., Malawi to Explore Use of Drones to Deliver Faster Aid in Crises”, 2016.
 * [Hyperallergic](http://hyperallergic.com/173513/cyberfeminists-go-deep-on-big-data-privacy-and-surveillance/),  Ben Valentine, “Cyberfeminists Go Deep on Big Data, Privacy, and Surveillance,” 2015. 
+* [PAPER Mag](https://www.papermag.com/these-artists-are-creating-technology-that-wont-suck-your-soul-1427502222.html
+), Kate Messinger, "These Artists Are Creating Technology That Won't Suck Your Soul", 2015.
+* [Technica.ly Brooklyn](https://technical.ly/brooklyn/2015/01/30/4-tech-art-mashups-eyebeams-2015-annual-showcase/), "4 tech-art mashups at Eyebeam’s 2015 Annual Showcase," Brady Dale, 2015.
 * [WIRED](http://www.wired.com/2014/10/fake-log-jams-your-phone/), Andy Greenberg, “This Fake Log Jams Your Phone So You’ll Shut Up and Enjoy Nature,” 2014. 
 * [VICE](http://motherboard.vice.com/de/read/dieser-holzklotz-jammt-dein-telefon-damit-du-es-endlich-aus-der-hand-legst), Theresa Locker, "Mit diesem Holzklotz blockst du Handy-Telefonie in deiner unmittelbaren Nähe," 2014. 
 * [The Verge](http://www.theverge.com/2013/10/8/4815760/prism-breakup-is-hard-to-do-will-digital-privacy-ever-be-easy), Adi Robertson, “Breaking up with PRISM is hard to do: will digital privacy ever be easy?" 2013.
