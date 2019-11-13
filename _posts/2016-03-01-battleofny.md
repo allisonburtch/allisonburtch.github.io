@@ -5,7 +5,7 @@ date: 2015-03-01
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 image: '/images/posts/battleofnyc.png' # Add image post (optional)
 permalink: /battle-of-ny/
-tags: # add tag
+tags: media
 ---
 
 # Battle of New York

@@ -7,6 +7,7 @@ image: '/images/posts/ben.jpg'
 permalink: /watching-you/
 fig-caption: # Add figcaption (optional)
 tags:  # add tag
+tags: anti-surveillance
 ---
 
 ### Watching You: A Love Story

@@ -5,6 +5,7 @@ date: 2013-01-01
 description: Anticipating the possibility of genetic surveillance in the post-apocalyptic present
 image: '/images/posts/heather.jpeg'
 permalink: /dna-spoofing/
+tags: anti-surveillance
 ---
 
 

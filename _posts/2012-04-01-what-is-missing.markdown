@@ -8,6 +8,7 @@ image: '/images/posts/wim.png'
 excerpt: "Maya Lin's last memorial, What is Missing?, is devoted to remembering habitat and species loss."
 layout: post
 permalink: /what-is-missing/
+tags: research
 ---
 
 [<img class="alignnone size-full wp-image-40" alt="wim" src="http://www.allisonburtch.net/wp-content/uploads/2013/02/wim.png" width="832" height="525" />][1]

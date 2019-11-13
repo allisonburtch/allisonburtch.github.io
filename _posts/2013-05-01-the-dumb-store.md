@@ -6,6 +6,7 @@ description: An open platform for dumb apps for dumb phones.
 image: '/images/posts/dumbstore.png'
 tags: 
 permalink: /dumbstore/
+tags: software
 ---
 
 ### The most inclusive mobile app platform. Ever.
