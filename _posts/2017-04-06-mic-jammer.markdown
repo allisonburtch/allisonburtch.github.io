@@ -6,7 +6,7 @@ description: Ultrasonic non-invasive microphone jammer to mute your iPhone mic
 image: '/images/posts/micjammer1.png'  
 permalink: /mic-jammer/
 fig-caption: Ultrasonic non-invasive microphone jammer to mute your iPhone mic # Add figcaption (optional)
-tags: 
+tags: hardware
 ---
 
 This project was made while a resident at Eyebeam during 2014-2015. The Mic Jammer is an ultrasonic security system that gives people the confidence to know that their smart phone microphones are non-invasively muted. It blasts a ton of ultrasonic noise at a iPhone mems microphone that is above the range of human hearing but still within the sensitive range of the mic. 

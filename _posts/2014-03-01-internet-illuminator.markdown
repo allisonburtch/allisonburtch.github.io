@@ -5,7 +5,7 @@ date: 2014-03-01 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 image: '/images/posts/int-illuminator.jpg'
 permalink: /plugin/
-tags:  # add tag
+tags: software
 ---
 
 ![img](/images/posts/plugin.png)

@@ -6,7 +6,7 @@ description: Providing a safe space in nature
 image: '/images/posts/log-jammer.jpg'
 permalink: /log-jammer/
 fig-caption: test test
-tags: 
+tags: hardware
 ---
 
 [log jammer](/images/posts/log-jammer.jpg)

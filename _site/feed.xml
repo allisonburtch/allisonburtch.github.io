@@ -4,7 +4,7 @@
     <title>Allison Burtch</title>
     <link>http://localhost:4000</link>
     <description>Art archive from 2010-2016</description>
-    <lastBuildDate>Wed, 13 Nov 2019 14:51:26 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 15:05:23 -0500</lastBuildDate>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
 
     
@@ -24,7 +24,201 @@
     
       <item>
         <title>School for Poetic Computation</title>
-        <description>
+        <description>&lt;p&gt;I worked with SFPC for a couple years as both a teacher and on their steering committee. We thought it was really important that there was a theory component to the work at SFPC, that it wasn’t just focused on making flashy tech projects.&lt;/p&gt;
+
+&lt;p&gt;The syllabus for the course is reproduced below (&lt;a href=&quot;https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/syllabus.md&quot;&gt;and here on github&lt;/a&gt;) and the project that my students made is &lt;a href=&quot;https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/zine.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;critical-theory-of-technology&quot;&gt;Critical Theory of Technology&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Course:&lt;/strong&gt; Politics, Utopia and Code, Fall 2014&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Location:&lt;/strong&gt; &lt;a href=&quot;http://sfpc.io/&quot;&gt;School for Poetic Computation&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;https://twitter.com/sfpc_school&quot;&gt;@sfpc_school&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;http://orbitalnyc.com/&quot;&gt;Orbital Labs, 4th Floor&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;When:&lt;/strong&gt; Fridays at 1pm&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; &lt;a href=&quot;http://allisonburtch.net&quot;&gt;Allison Burtch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/syllabus.md#schedule&quot;&gt;Schedule:&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;course-description&quot;&gt;Course description&lt;/h2&gt;
+
+&lt;p&gt;The vast influx of telecommunications infrastructure has coincided with a massive centralization of wealth and power. How has this barrage of spectacles on screens brokered global inequality? What was the utopian goal of early tech-creators, and were those values embodied in the design of the tools we use today?&lt;/p&gt;
+
+&lt;p&gt;With contemporary society and our collective future irrevocably changed by ubiquitous technology, the questions that makers, artists and technologists pose to society are increasingly relevant.&lt;/p&gt;
+
+&lt;p&gt;This class at SFPC will provide a critical discussion on some of the most relevant aspects of technological society today. We’ll draw from theorists such as Jean Baudrillard, Jodi Dean and Alexander Galloway, and science fiction writers such as Bruce Sterling and Ursula K Le Guin.&lt;/p&gt;
+
+&lt;h2 id=&quot;expectations-and-structure&quot;&gt;Expectations and Structure&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Each week, two people from the class will present that week’s readings.&lt;/li&gt;
+  &lt;li&gt;Read all the material and come prepared to discuss it in depth. Please bring other resources, authors and artists that you find relevant.&lt;/li&gt;
+  &lt;li&gt;As this is primarily a discussion-based class, let’s have all laptops closed. See &lt;a href=&quot;https://medium.com/@cshirky/why-i-just-asked-my-students-to-put-their-laptops-away-7f5f7c50f368&quot;&gt;Clay Shirky’s post on Medium&lt;/a&gt; about how this is better for everyone.&lt;/li&gt;
+  &lt;li&gt;Brainstorm and create a final class project.&lt;/li&gt;
+  &lt;li&gt;Blog weekly about the readings and your thoughts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;#Schedule&lt;/p&gt;
+&lt;h4 id=&quot;this-is-under-construction-and-will-be-changed-throughout-the-course-please-feel-free-to-give-feedback&quot;&gt;This is under construction and will be changed throughout the course. Please feel free to give feedback.&lt;/h4&gt;
+&lt;h2 id=&quot;week-1&quot;&gt;Week 1&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Friday, October 10th, 1pm&lt;/li&gt;
+  &lt;li&gt;In Class
+    &lt;ul&gt;
+      &lt;li&gt;What is critical theory? How can this be applied to technology? In class we’ll watch &lt;a href=&quot;https://vimeo.com/38724174&quot;&gt;All Watched Over by Machines of Love and Grace&lt;/a&gt; and discuss the goals for the class.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;week-2---what-was-the-vision&quot;&gt;Week 2 - What was the vision?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Friday, October 17th, 1pm&lt;/li&gt;
+  &lt;li&gt;Readings
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Mindstorms&lt;/em&gt; by Seymour Papert
+  “In the chapters that follow I shall try to give you some idea of these possibilities, many of which are dependent on a computer-rich future, a future where a computer will be a significant part of every child’s life. But I want my readers to be very clear that what is “utopian” in my vision and in this book is a particular way of using computers, of forging new relationships between computers and people – that the computer will be there to be used is simply a conservative premise”&lt;/li&gt;
+      &lt;li&gt;Alan Kay - &lt;a href=&quot;http://www.scholastic.com/browse/article.jsp?id=5&quot;&gt;“Face to Face: Alan Kay Still Waiting for the Revolution”&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Steve Jobs - &lt;a href=&quot;http://www.youtube.com/watch?v=ob_GX50Za6c&quot;&gt;“Bicycles for the mind”&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;In class:
+        &lt;ul&gt;
+          &lt;li&gt;Belinda Barnet &lt;a href=&quot;http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet&quot;&gt;interview from 2007&lt;/a&gt;, if you have time.&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Mother_of_All_Demos&quot;&gt;Douglas Engelbart&lt;/a&gt;, &lt;a href=&quot;http://web.archive.org/web/20120206001457/http://www.framejournal.net/interview/14/belinda-barnet&quot;&gt;Mother of all Demos&lt;/a&gt;, 1968&lt;/li&gt;
+          &lt;li&gt;Alan Kay, “&lt;a href=&quot;https://www.youtube.com/watch?v=r36NNGzNvjo&quot;&gt;If you could have what you wanted, what would it be like?&lt;/a&gt;”
+            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;http://history-computer.com/Library/Kay72.pdf&quot;&gt;A personal computer for children of all ages&lt;/a&gt;, 1972.&lt;/li&gt;
+              &lt;li&gt;Also: &lt;a href=&quot;http://history-computer.com/ModernComputer/Personal/Dynabook.html&quot;&gt;“The Dynabook of Alan Kay”&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;http://www.technologyreview.com/news/506466/given-tablets-but-no-teachers-ethiopian-children-teach-themselves/&quot;&gt;OLPC&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Frank Chimero, “&lt;a href=&quot;http://frankchimero.com/talks/what-screens-want/transcript/&quot;&gt;What Screens Want&lt;/a&gt;”&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;week-3---decentralization-and-its-discontents&quot;&gt;Week 3 - Decentralization and its Discontents&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Decentralized computing, decentralized political organizing, decentralized currencies.&lt;/em&gt;
+Global, &lt;a href=&quot;http://www.nytimes.com/2013/06/09/opinion/sunday/fixing-the-digital-economy.html&quot;&gt;decentralized networds of computers&lt;/a&gt; have disrupted the way we communicate, seemingly leading to a more democratic society. Simultaneously, we’ve seen a massive centralization of power and wealth. &lt;em&gt;Protocol&lt;/em&gt; introduces us to how control can exist after decentralization.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Friday, October 24th, 1pm&lt;/li&gt;
+  &lt;li&gt;Readings
+    &lt;ul&gt;
+      &lt;li&gt;Alexander Galloway, &lt;em&gt;Protocol&lt;/em&gt;, pgs 3-53 (Introduction and Ch 1 ‘Physical Media,’ though the whole book is worth reading)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.shareable.net/blog/21-technologies-that-will-decentralize-the-world&quot;&gt;21 Technologies That Will Decentralize the World&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Jo Freeman, “&lt;a href=&quot;http://www.historyisaweapon.com/defcon1/tyrstruct.html&quot;&gt;The Tyranny of Structurelessness&lt;/a&gt;”&lt;/li&gt;
+      &lt;li&gt;Bitcoin
+        &lt;ul&gt;
+          &lt;li&gt;“&lt;a href=&quot;http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/&quot;&gt;Why Bitcoin Matters&lt;/a&gt;,” Marc Andreesen&lt;/li&gt;
+          &lt;li&gt;“&lt;a href=&quot;http://www.dailydot.com/business/bitcoin-offshore-tax-haven/&quot;&gt;Bitcoin is the offshore tax haven of the future&lt;/a&gt;,” Aaron Sankin&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;week-4---utopias-and-sci-fi&quot;&gt;Week 4 - Utopias and Sci Fi&lt;/h2&gt;
+&lt;p&gt;Ursula K Le Guin writes that science fiction is descriptive, not predictive. And it is in these extrapolations on the present that we are able to see reality with greater clarity. The readings this week explore stories of humanity and utopias, in their various forms.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Friday, October 31st, 1pm&lt;/li&gt;
+  &lt;li&gt;Readings - This is a lot, so read what you like -  and if you don’t like it, figure out why and then skip it.
+    &lt;ul&gt;
+      &lt;li&gt;Anne McCaffrey - “The Ship Who Sang”&lt;/li&gt;
+      &lt;li&gt;Octavia E. Butler - &lt;a href=&quot;http://www.baenebooks.com/chapters/9781625791191/9781625791191___1.htm&quot;&gt;“Bloodchild”&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;William Gibson - “The Gernsback Continuum”&lt;/li&gt;
+      &lt;li&gt;Ursula K. Le Guin -
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www-rohan.sdsu.edu/faculty/dunnweb/rprnts.omelas.pdf&quot;&gt;“The Ones Who Walk Away from Omelas”&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;Essay on mapping, utopias and technology. &lt;a href=&quot;http://theanarchistlibrary.org/library/ursula-k-le-guin-a-non-euclidean-view-of-california-as-a-cold-place-to-be&quot;&gt;“A Non-Euclidean View of California as a Cold Place to Be”&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;Intro(pgs 1 and 2) to &lt;em&gt;The Left Hand of Darkness&lt;/em&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Nathan Shedroff and Christopher Noessel, &lt;em&gt;Make It So: Interaction Design Lessons from Science Fiction&lt;/em&gt; - Please don’t read this, it’s way too much for one week, but I want you to have it for the reference. It’s an interesting study on how speculative design in science-fiction ultimately becomes the inventions that technologists create.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;week-5---messaging-and-language&quot;&gt;Week 5 - Messaging and Language&lt;/h2&gt;
+&lt;p&gt;What does sharing mean now that the “sharing economy” is our newest “disruption”. What is the collective when a number of &lt;a href=&quot;http://gawker.com/please-dont-be-cynical-about-this-new-sites-huge-corpor-1643306161&quot;&gt;companies&lt;/a&gt; launch “collectively.org”? How is defining issues difficult when everything is connected?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Friday, November 7th, 1pm&lt;/li&gt;
+  &lt;li&gt;Readings - Please feel free to use Open Frameworks, Processing, design, film or other visual programming styles to blog this week. If you’d prefer to write, that’s fine, but I’d love to see more visuals.
+    &lt;ul&gt;
+      &lt;li&gt;Jodi Dean, “&lt;a href=&quot;http://commonconf.files.wordpress.com/2010/09/proofs-of-tech-fetish.pdf&quot;&gt;Communicative Capitalism: Circulation and the Foreclosure of Politics&lt;/a&gt;”&lt;/li&gt;
+      &lt;li&gt;Mike Bulajewski, “&lt;a href=&quot;http://www.mrteacup.org/post/the-cult-of-sharing.html&quot;&gt;The Cult of Sharing&lt;/a&gt;”&lt;/li&gt;
+      &lt;li&gt;George Orwell, “&lt;a href=&quot;https://www.mtholyoke.edu/acad/intrel/orwell46.htm&quot;&gt;Politics and the English Language&lt;/a&gt;,” 1946&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;week-6---internet-of-things&quot;&gt;Week 6 - Internet of Things&lt;/h2&gt;
+&lt;p&gt;For this week, we’ll look at our future through connected devices. Cisco thinks &lt;a href=&quot;http://share.cisco.com/internet-of-things.html&quot;&gt;it’s pretty great&lt;/a&gt;. Others are &lt;a href=&quot;http://www.brennancenter.org/analysis/im-terrified-my-new-tv-why-im-scared-turn-thing#&quot;&gt;scared of their televisions&lt;/a&gt;. Driverless cars are going to happen, but perhaps &lt;a href=&quot;http://www.technologyreview.com/featuredstory/520431/driverless-cars-are-further-away-than-you-think/&quot;&gt;not as soon as we think&lt;/a&gt;. The intelligence community is &lt;a href=&quot;http://www.informationweek.com/government/big-data-analytics/internet-of-things-intrigues-intelligence-community/d/d-id/1316025&quot;&gt;“intrigued”&lt;/a&gt;. Bruce Sterling has an interesting take on our future in “The Epic Struggle for the Internet of Things,” which is the assigned reading for this week.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Friday, November 14th, 1pm&lt;/li&gt;
+  &lt;li&gt;Bruce Sterling, &lt;a href=&quot;http://www.strelka.com/en/press/books/the-epic-struggle-for-the-internet-of-things&quot;&gt;“The Epic Struggle of the Internet of Things”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;week-7---privacy-and-surveillance&quot;&gt;Week 7 - Privacy and Surveillance&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Friday, November 21st, 1pm&lt;/li&gt;
+  &lt;li&gt;“Surveillance in America,” An Interview With Christian Parenti, FLASHPOINTS, KPFA 94.1 FM, Pacifica Radio, Berkeley, California, 2005.&lt;/li&gt;
+  &lt;li&gt;Kate Crawford, “&lt;a href=&quot;http://thenewinquiry.com/essays/the-anxieties-of-big-data/&quot;&gt;The Anxieties of Big Data&lt;/a&gt;”&lt;/li&gt;
+  &lt;li&gt;Tim Maly, “&lt;a href=&quot;http://quietbabylon.com/2012/on-the-leakiness-of-surveillance-culture-the-corporate-gaze-and-what-that-has-to-do-with-the-new-aesthetic/&quot;&gt;On the Leakiness of Surveillance Culture, the Corporate Gaze, and What That Has To Do With the New Aesthetic&lt;/a&gt;”
+Phil Agre has a bit of an &lt;a href=&quot;http://www.npr.org/blogs/alltechconsidered/2009/11/the_mysterious_disappearance_o.html&quot;&gt;interesting disappearance story&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Philip E. Agre, “&lt;a href=&quot;http://www.asounder.org/resources/agre_surveillance.pdf&quot;&gt;Surveillance and Capture: Two Models of Privacy&lt;/a&gt;, 1994.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Skim this, it’s not necessary but good for historical context.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Philip E. Agre, “&lt;a href=&quot;http://polaris.gseis.ucla.edu/pagre/bar-code.html&quot;&gt;Your Face Is Not a Bar Code: Arguments Against Automatic Face Recognition in Public Places&lt;/a&gt;, 2001&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also Lauren McCarthy’s &lt;a href=&quot;https://github.com/lmccart/AppropriatingInteractionTechnologies/wiki/Security,-surveillance,-and-privacy&quot;&gt;class github&lt;/a&gt; has some good resources on surveillance art. And the Artsec &lt;a href=&quot;https://docs.google.com/document/d/1pIzAObj4aYdRBtgS0MTTW73suGmAUqUQk2_gYwyn2To/edit#&quot;&gt;bibliography&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;week-8---political-change-and-riots&quot;&gt;Week 8 - Political Change and Riots&lt;/h2&gt;
+&lt;p&gt;Much of the discussion of this class has led to the question: if technology isn’t the solution, then what is? I had planned for us to read Alan Badiou’s &lt;em&gt;The Rebirth of History: Times of Riots and Uprisings&lt;/em&gt;, but it’s much too long and you’re all too tired right now. So per our discussion on Friday, we’re going to only have one (short) reading for Wednesday. I’ll bring in some videos/discussions of various protest movements. And if the Darren Wilson verdict is announced, we may just go to Union Square.&lt;/p&gt;
+
+&lt;p&gt;PS. If you have an idea already of what you’d like to write (or a blog post you’d like to reformat) for our class zine, I’d love to discuss it with you.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wednesday, November 26th, 3-5pm
+    &lt;ul&gt;
+      &lt;li&gt;Alan Badiou, &lt;a href=&quot;http://www.versobooks.com/books/1124-the-rebirth-of-history&quot;&gt;&lt;em&gt;The Rebirth of History: Times of Riots and Uprisings&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Critical Art Ensemble, “&lt;a href=&quot;http://www.critical-art.net/books/digital/tact2.pdf&quot;&gt;The Mythology of Terrorism on the Net&lt;/a&gt;,” 1995.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;##Weeks 9 - Final Class
+Design and make the final project into a zine from blog posts.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Friday, December 5th
+    &lt;ul&gt;
+      &lt;li&gt;Link to the zine is &lt;a href=&quot;https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/zine.pdf&quot;&gt;here&lt;/a&gt;. Great job everyone!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/allisonburtch/Critical-Theory-of-Technology#students-blogs&quot;&gt;Students&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;This class is partially inspired by &lt;a href=&quot;https://swannodette.github.io/&quot;&gt;David Nolen&lt;/a&gt;’s class “Bicycles for the Mind,” which I took in a Fall 2013 course at &lt;a href=&quot;http://itp.nyu.edu/itp/&quot;&gt;ITP/NYU&lt;/a&gt;. Also thanks to &lt;a href=&quot;http://cultureandcommunication.org/galloway/2010fall-Politics_of_Code_syllabus.pdf&quot;&gt;Alexander Galloway&lt;/a&gt; and countless others for making their syllabi accessible online.&lt;/li&gt;
+&lt;/ul&gt;
+
 </description>
         <pubDate>Tue, 05 May 2015 06:32:20 -0400</pubDate>
         <link>http://localhost:4000//sfpc/</link>
@@ -170,7 +364,7 @@ logjammer&lt;/p&gt;
       </item>
     
       <item>
-        <title>Prison Strike</title>
+        <title>Strike the Prisons</title>
         <description>&lt;h1 id=&quot;strike-the-prisons&quot;&gt;Strike the Prisons&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;/images/posts/prisonstrike.png&quot; alt=&quot;Strike the Prisons&quot; /&gt;&lt;/p&gt;
 
@@ -538,6 +732,16 @@ allisonburtch.net/&lt;/p&gt;
             <link>http://localhost:4000//press.html</link>
           </item>
         
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
       
     
       

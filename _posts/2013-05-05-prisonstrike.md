@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Prison Strike
+title: Strike the Prisons
 date: 2013-05-05
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 image: '/images/posts/prisonstrike.png' # Add image post (optional)
 permalink: /prison-strike/
-tags: # add tag
+tags: [media]
 ---
 
 # Strike the Prisons
