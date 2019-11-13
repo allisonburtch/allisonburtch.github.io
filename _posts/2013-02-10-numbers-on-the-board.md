@@ -6,6 +6,7 @@ date: 2013-02-10
 description: 'A poly-rhythmic installation keeping time around Manhattanhenge and the summer solstice. '
 image: '/images/posts/numbers.jpg' 
 permalink: /numbers/
+tags: hardware
 ---
 
 <iframe src="https://player.vimeo.com/video/66297142" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
