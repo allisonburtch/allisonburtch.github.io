@@ -12,6 +12,7 @@ image:
 * [PBS](http://www.pbs.org/newshour/updates/drone-use-humanitarian-aid/), “Humanitarian efforts benefit from drones as ethical debate continues”, 2016.
 * [NYTimes](http://www.nytimes.com/reuters/2016/12/15/technology/15reuters-malawi-aid-drones.html), Reuters, “U.N., Malawi to Explore Use of Drones to Deliver Faster Aid in Crises”, 2016.
 * [Hyperallergic](http://hyperallergic.com/173513/cyberfeminists-go-deep-on-big-data-privacy-and-surveillance/),  Ben Valentine, “Cyberfeminists Go Deep on Big Data, Privacy, and Surveillance,” 2015. 
+*  Kate Messinger, [VICE](https://www.vice.com/en_us/article/wnpj3b/provoking-participation-through-art-at-eyebeams-2015-annual-showcase), 2015
 * [PAPER Mag](https://www.papermag.com/these-artists-are-creating-technology-that-wont-suck-your-soul-1427502222.html
 ), Kate Messinger, "These Artists Are Creating Technology That Won't Suck Your Soul", 2015.
 * [Technica.ly Brooklyn](https://technical.ly/brooklyn/2015/01/30/4-tech-art-mashups-eyebeams-2015-annual-showcase/), "4 tech-art mashups at Eyebeam’s 2015 Annual Showcase," Brady Dale, 2015.
