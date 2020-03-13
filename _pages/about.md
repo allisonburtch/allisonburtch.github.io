@@ -6,13 +6,11 @@ image: '/images/pages/allison-burtch.jpg'
 
 ### Currently
 
-I started [IRL Research Lab](https://irlresear.ch/). We conduct research to predict (and build) possible futures for startups, non-profits, VCs and accelerators. I'd probably love to work with you. Please drop me a line!
+I started [IRL Research Lab](https://irlresear.ch/). We conduct research to predict (and build) possible futures for startups, non-profits, VCs and accelerators. I'd probably love to work with you. Please [drop me a line](/contact.html).!
 
 ### About Me 
 
 I care deeply about change, whether it's personal, political, societal or spiritual. I love the beauty of the natural world and the beauty of humanity and think that there is no environment in which we are separate; we co-create eachother. I strive to have a confident, unapologetic, honest and clear-eyed understanding of the way the world is and the context in which we all live. This comes from a deep history of studying the nuanced interplay of technology and politics, and how they inform each other to shape the world. 
-
-I love applying this wealth of knowledge to help startups build something that might actually have an impact on the way people interact with technology. Please feel free to [get in touch](/contact.html).
 
 ### Bio
 
