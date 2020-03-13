@@ -4,7 +4,9 @@ title: About
 image: '/images/pages/allison-burtch.jpg'
 ---
 
-(Currently starting a consultancy! More soon!)
+### Currently
+
+I started [IRL Research Lab](https://irlresear.ch/). We conduct research to predict (and build) possible futures for startups, non-profits, VCs and accelerators. I'd probably love to work with you. Please drop me a line!
 
 ### About Me 
 
